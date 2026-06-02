@@ -27,32 +27,65 @@ def guardar_noticias(noticias):
         json.dump(noticias, f, ensure_ascii=False, indent=2)
 
 def extraer_imagen(item):
-    """Extrae la imagen buscando en media:content, enclosure, o dentro del HTML de la descripción."""
-    # 1. Intentar en media:content (Google News usa esto)
+    """Extrae la imagen y, si falla, imprime el contenido del item para debuguear."""
+    
+    # 1. Intentar buscar en media:content (el estándar)
+    # Buscamos con y sin el namespace de Yahoo por si acaso
     media = item.find('{http://search.yahoo.com/mrss/}content')
     if media is not None and 'url' in media.attrib:
         return media.attrib['url']
-    
+        
     # 2. Intentar en tag enclosure
     enclosure = item.find('enclosure')
     if enclosure is not None and 'url' in enclosure.attrib:
         return enclosure.attrib['url']
-    
-    # 3. Si no hay nada, buscar dentro del HTML de la descripción (código muy eficiente)
+        
+    # 3. Buscar en description (Regex mejorado)
     desc = item.find('description').text if item.find('description') is not None else ""
     match = re.search(r'src=["\'](https?://[^"\']+)["\']', desc)
     if match:
         return match.group(1)
         
-    # 4. SOLO SI NO ENCUENTRA NADA, devuelve una imagen fija tuya
-    return "https://i.imgur.com/TuImagenLogo.jpg" # <--- CAMBIA ESTO POR EL LINK DE TU LOGO
-    
-    # Intento fallback en tag enclosure
-    enclosure = item.find('enclosure')
-    if enclosure is not None and 'url' in enclosure.attrib:
-        return enclosure.attrib['url']
+    # --- MODO DIAGNÓSTICO: Si llega aquí es que no encontró nada ---
+    print(f"DEBUG: No se encontró imagen. Etiquetas encontradas en el XML:")
+    for child in item:
+        print(f"Tag: {child.tag} | Texto: {str(child.text)[:50]}...")
         
-    return "https://tuweb.com/imagen-default.jpg" # Cambia esto por tu logo si no hay imagen
+    return "https://i.imgur.com/TuImagenLogo.jpg" # Tu logo aquí
+
+def ejecutar():
+    try:
+        res = requests.get(RSS_URL, timeout=10)
+        root = ET.fromstring(res.content)
+    except Exception as e:
+        print(f"❌ Error RSS: {e}")
+        return
+    
+    noticias_guardadas = cargar_noticias()
+    nuevos = 0
+    
+    for item in root.findall(".//item")[:NOTICIAS_POR_CARRERA]:
+        t_orig = item.find("title").text
+        # Verificamos si ya existe por el título
+        if any(n.get('titulo_original') == t_orig for n in noticias_guardadas): continue
+        
+        # --- AQUÍ LLAMAMOS AL DIAGNÓSTICO ---
+        img_url = extraer_imagen(item) 
+        
+        t_ia, r_ia, c_ia = reescribir_con_ia(t_orig)
+        
+        nuevo_id = max([n["id"] for n in noticias_guardadas], default=0) + 1
+        noticias_guardadas.append({
+            "id": nuevo_id, "titulo_original": t_orig, "titulo": t_ia,
+            "resumen": r_ia, "contenido": c_ia, "imagen": img_url,
+            "fecha": datetime.today().strftime('%Y-%m-%d')
+        })
+        nuevos += 1
+        print(f"✅ Procesada: {t_ia[:30]} | Imagen: {img_url}")
+        
+    if nuevos > 0:
+        guardar_noticias(noticias_guardadas)
+        print(f"💾 Guardado {nuevos} noticias.")
 
 def reescribir_con_ia(titulo_orig):
     if not GROQ_API_KEY: return titulo_orig, "Noticia de última hora", "Contenido en desarrollo."
