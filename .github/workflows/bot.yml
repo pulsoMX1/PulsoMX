@@ -1,9 +1,13 @@
 name: Bot PulsoMX - MODO TURBO
 
 on:
-  workflow_dispatch: # 👈 Este es el botón mágico para ejecutarlo manualmente cuando quieras
+  workflow_dispatch:
   schedule:
-    - cron: '0 */2 * * *' # Se ejecuta en automático cada 2 horas (ritmo seguro a largo plazo)
+    - cron: '0 */2 * * *'
+
+# 👇 ESTO ES LO QUE LE DA PERMISO AL BOT DE GUARDAR EL JSON
+permissions:
+  contents: write
 
 jobs:
   actualizar_noticias:
