@@ -26,7 +26,7 @@ def guardar_noticias(noticias):
         json.dump(noticias, f, ensure_ascii=False, indent=2)
 
 def generar_imagen_relevante(titulo):
-    """Genera una URL de imagen usando el título para que sea coherente."""
+    """Genera una URL de imagen muy detallada usando Toda la descripcion de la Noticia para que sea coherente."""
     # Limpiamos el título para que la IA de imágenes lo entienda mejor
     titulo_limpio = re.sub(r'[^a-zA-Z0-9 ]', '', titulo)
     prompt = quote(f"photorealistic news photography, {titulo_limpio}, high resolution, cinematic lighting")
