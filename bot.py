@@ -37,7 +37,7 @@ def reescribir_con_ia(titulo_orig, resumen_orig):
     prompt_texto = f"Actúa como periodista viral. Reescribe: {titulo_orig}. Devuelve JSON con 'titulo', 'resumen', 'contenido'."
     
     payload = {
-        "model": "llama3-70b-8192",
+        "model": "llama-3.3-70b-versatile",
         "messages": [{"role": "user", "content": prompt_texto}],
         "response_format": {"type": "json_object"},
         "temperature": 0.5
