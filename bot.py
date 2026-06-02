@@ -42,7 +42,10 @@ def extraer_imagen_original(texto_html):
     return match.group(1) if match else None
 
 def reescribir_con_ia(titulo_orig, resumen_orig):
-    if not GROQ_API_KEY: return titulo_orig, resumen_orig, resumen_orig
+    if not GROQ_API_KEY: 
+        print("⚠️ No se encontró la llave GROQ_API_KEY en el entorno.")
+        return titulo_orig, resumen_orig, resumen_orig
+        
     url = "https://api.groq.com/openai/v1/chat/completions"
     headers = {"Authorization": f"Bearer {GROQ_API_KEY}", "Content-Type": "application/json"}
     
@@ -66,11 +69,19 @@ def reescribir_con_ia(titulo_orig, resumen_orig):
     }
     
     try:
-        res = requests.post(url, headers=headers, json=payload, timeout=20).json()
+        r = requests.post(url, headers=headers, json=payload, timeout=20)
+        res = r.json()
+        
+        # 👇 ESTO NOS DIRÁ EL ERROR EXACTO DE GROQ EN LOS LOGS
+        if 'choices' not in res:
+            print(f"🛑 Groq nos rebotó. Su respuesta fue: {res}")
+            return titulo_orig, resumen_orig, resumen_orig
+            
         contenido_crudo = res['choices'][0]['message']['content']
         
-        # 🔥 CORRECCIÓN: Quitamos los bloques de código usando Regex para evitar fallos de sintaxis
-        contenido_limpio = re.sub(r'```[a-z]*', '', contenido_crudo).strip()
+        # Quitamos los bloques de código usando Regex para evitar fallos de sintaxis
+        contenido_limpio = re.sub(r'
+```[a-z]*', '', contenido_crudo).strip()
         data = json.loads(contenido_limpio)
         
         return data.get("titulo", titulo_orig), data.get("resumen", resumen_orig), data.get("contenido", resumen_orig)
@@ -86,7 +97,6 @@ def publicar_en_facebook(titulo, resumen, id_noticia, imagen_url):
     url_web = f"https://{GITHUB_USERNAME}.github.io/pulsomx/noticia.html?id={id_noticia}"
     mensaje = f"🚨 {titulo} 🚨\n\n{resumen}\n\n👉 Enterate de todos los detalles aquí: {url_web}"
     
-    # 🔥 CORRECCIÓN: Se arregló el formato de la URL que tenía Markdown basura
     fb_url = f"https://graph.facebook.com/v20.0/{FB_PAGE_ID}/photos"
     payload = {"url": imagen_url, "caption": mensaje, "access_token": FB_ACCESS_TOKEN}
     try:
@@ -128,7 +138,6 @@ def ejecutar():
         if not img_url:
             texto_seguro = re.sub(r'[^a-zA-Z0-9 ]', '', t_ia[:50])
             prompt_img = requests.utils.quote(f"photojournalism, documentary news photography, highly realistic, 8k resolution, {texto_seguro}")
-            # 🔥 CORRECCIÓN: Se arregló el formato de la URL de la imagen
             img_url = f"https://image.pollinations.ai/prompt/{prompt_img}?width=800&height=500&nologo=true"
         
         nuevo_id = max([n["id"] for n in noticias_guardadas], default=0) + 1
