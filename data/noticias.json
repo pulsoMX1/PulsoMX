@@ -7,5 +7,23 @@
     "contenido": "La cadena de televisión argentina Cadena 3 ha anunciado su llegada a México, donde se llevará a cabo el Mundial de Fútbol 2026. Esta expansión marca un hito importante para la cadena, que busca ofrecer cobertura y contenido de alta calidad a los fanáticos del fútbol en México y otros países de la región.",
     "imagen": "https://image.pollinations.ai/prompt/photorealistic%20news%20photography%2C%20Cadena%203%20llega%20a%20Mxico%20para%20el%20Mundial%202026%2C%20high%20resolution%2C%20cinematic%20lighting?width=800&height=500&nologo=true&seed=42",
     "fecha": "2026-06-02"
+  },
+  {
+    "id": 2,
+    "titulo_original": "Primarias abiertas en Nuevo México: elige candidatos a gobernador este martes - Cadena 3 Argentina",
+    "titulo": "Elecciones en Nuevo México: Se eligen candidatos a gobernador",
+    "resumen": "Este martes, los votantes en Nuevo México participarán en primarias abiertas para elegir a los candidatos que competirán en las elecciones generales por el cargo de gobernador.",
+    "contenido": "En un proceso democrático crucial, los ciudadanos de Nuevo México tienen la oportunidad de influir en el futuro político de su estado. Las primarias abiertas permiten a los votantes de cualquier afiliación política participar en la selección de los candidatos que representarán a cada partido en las elecciones generales. Este proceso es fundamental para determinar los líderes que guiarán el estado en el futuro.",
+    "imagen": "https://image.pollinations.ai/prompt/photorealistic%20news%20photography%2C%20Elecciones%20en%20Nuevo%20Mxico%20Se%20eligen%20candidatos%20a%20gobernador%2C%20high%20resolution%2C%20cinematic%20lighting?width=800&height=500&nologo=true&seed=42",
+    "fecha": "2026-06-02"
+  },
+  {
+    "id": 3,
+    "titulo_original": "Restos de Melissa Casias hallados en bosque de Nuevo México tras un año de búsqueda - Cadena 3 Argentina",
+    "titulo": "Hallan restos de Melissa Casias en un bosque de Nuevo México",
+    "resumen": "Después de un año de búsqueda, se encontraron restos humanos que corresponden a Melissa Casias en un bosque de Nuevo México",
+    "contenido": "La búsqueda de Melissa Casias, que había desaparecido en Nuevo México, ha llegado a un trágico final. Después de un año de intensas búsquedas, los restos humanos encontrados en un bosque de la región han sido identificados como los de la joven desaparecida. La noticia ha conmocionado a la comunidad y ha generado un gran impacto en los medios de comunicación. La investigación sobre las circunstancias de su muerte sigue en curso.",
+    "imagen": "https://image.pollinations.ai/prompt/photorealistic%20news%20photography%2C%20Hallan%20restos%20de%20Melissa%20Casias%20en%20un%20bosque%20de%20Nuevo%20Mxico%2C%20high%20resolution%2C%20cinematic%20lighting?width=800&height=500&nologo=true&seed=42",
+    "fecha": "2026-06-02"
   }
 ]
