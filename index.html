@@ -26,7 +26,7 @@
         body { font-family: 'Source Sans 3', sans-serif; background: var(--gris); color: var(--texto); min-width: 320px; overflow-x: hidden; }
         img { max-width: 100%; height: auto; display: block; }
 
-        /* ── HEADER ── */
+        /* HEADER */
         header { background: var(--rojo); position: sticky; top: 0; z-index: 100; box-shadow: 0 2px 12px rgba(0,0,0,0.3); }
         .header-inner { max-width: 1200px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; padding: 10px 16px; gap: 12px; }
         .logo { font-family: 'Playfair Display', serif; font-size: clamp(1.2rem, 4vw, 1.8rem); font-weight: 900; color: white; text-decoration: none; letter-spacing: -1px; white-space: nowrap; flex-shrink: 0; }
@@ -36,26 +36,23 @@
         .header-nav a:hover { color: var(--amarillo); }
         @media (max-width: 480px) { .header-nav .hide-xs { display: none; } }
 
-        /* ── BREAKING BAR ── */
+        /* BREAKING BAR */
         .breaking-bar { background: var(--amarillo); color: var(--texto); padding: 5px 0; overflow: hidden; }
         .breaking-inner { max-width: 1200px; margin: 0 auto; padding: 0 16px; display: flex; gap: 10px; align-items: center; overflow: hidden; }
         .breaking-label { font-weight: 900; font-size: 0.7rem; text-transform: uppercase; letter-spacing: 1px; white-space: nowrap; color: var(--rojo); flex-shrink: 0; }
         .breaking-text { font-size: 0.8rem; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; min-width: 0; }
 
-        /* ── AD BANNERS ── */
-        .ad-top { text-align: center; padding: 8px; background: #f0f0f0; border-bottom: 1px solid #e0e0e0; overflow: hidden; }
-        .ad-728 { display: block; } /* desktop */
-        .ad-320 { display: none; }  /* mobile */
-        @media (max-width: 767px) { .ad-728 { display: none; } .ad-320 { display: block; } }
+        /* AD */
+        .ad-top { text-align: center; padding: 8px; background: #f0f0f0; border-bottom: 1px solid #e0e0e0; overflow: hidden; min-height: 10px; }
 
-        /* ── MAIN LAYOUT ── */
+        /* MAIN LAYOUT */
         .main-wrapper { max-width: 1200px; margin: 20px auto; padding: 0 16px; display: grid; grid-template-columns: 1fr 300px; gap: 24px; }
         @media (max-width: 960px) { .main-wrapper { grid-template-columns: 1fr; } .sidebar { display: none; } }
 
-        /* ── SECTION TITLE ── */
+        /* SECTION TITLE */
         .section-title { font-family: 'Playfair Display', serif; font-size: clamp(1rem, 3vw, 1.3rem); font-weight: 900; border-left: 4px solid var(--rojo); padding-left: 12px; margin-bottom: 16px; text-transform: uppercase; letter-spacing: 0.5px; }
 
-        /* ── HERO CARD ── */
+        /* HERO CARD */
         .hero-card { background: white; border-radius: 12px; overflow: hidden; box-shadow: 0 2px 12px rgba(0,0,0,0.07); margin-bottom: 20px; text-decoration: none; color: inherit; display: block; transition: transform 0.2s, box-shadow 0.2s; }
         .hero-card:hover { transform: translateY(-3px); box-shadow: 0 8px 24px rgba(0,0,0,0.12); }
         .hero-card img { width: 100%; height: clamp(180px, 35vw, 340px); object-fit: cover; }
@@ -64,10 +61,9 @@
         .hero-card h2 { font-family: 'Playfair Display', serif; font-size: clamp(1.1rem, 3.5vw, 1.7rem); font-weight: 900; line-height: 1.25; margin-bottom: 8px; color: var(--texto); }
         .hero-card p { color: var(--texto-suave); font-size: clamp(0.82rem, 2vw, 0.95rem); line-height: 1.6; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
 
-        /* ── NEWS GRID ── */
+        /* NEWS GRID */
         .news-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; }
         @media (max-width: 500px) { .news-grid { grid-template-columns: 1fr; } }
-
         .news-card { background: white; border-radius: 10px; overflow: hidden; box-shadow: 0 1px 6px rgba(0,0,0,0.06); text-decoration: none; color: inherit; display: block; transition: transform 0.2s, box-shadow 0.2s; }
         .news-card:hover { transform: translateY(-2px); box-shadow: 0 6px 18px rgba(0,0,0,0.1); }
         .news-card img { width: 100%; height: clamp(130px, 20vw, 170px); object-fit: cover; }
@@ -75,10 +71,10 @@
         .news-card .fecha { font-size: 0.68rem; color: var(--rojo); font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; }
         .news-card h3 { font-family: 'Playfair Display', serif; font-size: clamp(0.85rem, 2.2vw, 1rem); font-weight: 700; line-height: 1.35; margin-top: 4px; color: var(--texto); display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
 
-        /* ── AD EN GRID ── */
-        .ad-in-grid { background: #f0f0f0; border-radius: 10px; display: flex; align-items: center; justify-content: center; min-height: 100px; text-align: center; overflow: hidden; }
+        /* AD EN GRID */
+        .ad-in-grid { background: #f0f0f0; border-radius: 10px; display: flex; align-items: center; justify-content: center; min-height: 60px; text-align: center; overflow: hidden; }
 
-        /* ── SIDEBAR ── */
+        /* SIDEBAR */
         .sidebar-widget { background: white; border-radius: 10px; padding: 16px; margin-bottom: 18px; box-shadow: 0 1px 6px rgba(0,0,0,0.06); }
         .sidebar-title { font-family: 'Playfair Display', serif; font-size: 0.95rem; font-weight: 900; border-bottom: 2px solid var(--rojo); padding-bottom: 8px; margin-bottom: 12px; text-transform: uppercase; }
         .sidebar-news-item { display: flex; gap: 10px; align-items: flex-start; padding: 8px 0; border-bottom: 1px solid #f0f0f0; text-decoration: none; color: inherit; }
@@ -86,15 +82,15 @@
         .sidebar-news-item img { width: 68px; height: 52px; object-fit: cover; border-radius: 6px; flex-shrink: 0; }
         .sidebar-news-item h4 { font-size: 0.78rem; font-weight: 700; line-height: 1.35; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
         .sidebar-news-item span { font-size: 0.63rem; color: var(--rojo); font-weight: 700; display: block; margin-bottom: 2px; }
-        .ad-sidebar { text-align: center; overflow: hidden; margin-bottom: 18px; }
+        .ad-sidebar { text-align: center; overflow: hidden; margin-bottom: 18px; min-height: 50px; }
 
-        /* ── FOOTER ── */
-        footer { background: var(--texto); color: rgba(255,255,255,0.7); margin-top: 40px; padding: 24px 16px; text-align: center; font-size: 0.8rem; }
+        /* FOOTER */
+        footer { background: var(--texto); color: rgba(255,255,255,0.7); margin-top: 40px; padding: 24px 16px; text-align: center; font-size: clamp(0.72rem, 2vw, 0.8rem); }
         footer a { color: var(--amarillo); text-decoration: none; }
         footer a:hover { text-decoration: underline; }
         .footer-links { display: flex; justify-content: center; gap: 14px; margin-bottom: 10px; flex-wrap: wrap; }
 
-        /* ── SKELETON LOADER ── */
+        /* SKELETON */
         .skeleton { background: linear-gradient(90deg, #e0e0e0 25%, #ebebeb 50%, #e0e0e0 75%); background-size: 200% 100%; animation: shimmer 1.5s infinite; border-radius: 8px; }
         @keyframes shimmer { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
     </style>
@@ -113,7 +109,6 @@
         </div>
     </header>
 
-    <!-- Breaking bar -->
     <div class="breaking-bar">
         <div class="breaking-inner">
             <span class="breaking-label">🔴 Ahora</span>
@@ -121,8 +116,8 @@
         </div>
     </div>
 
-    <!-- Ad top — espacio reservado para AdSense cuando sea aprobado -->
-    <div class="ad-top" style="min-height:10px;"></div>
+    <!-- Espacio reservado para AdSense -->
+    <div class="ad-top"></div>
 
     <div class="main-wrapper">
         <main>
@@ -145,7 +140,7 @@
                 <p class="sidebar-title">Lo más leído</p>
                 <div id="sidebar-list"></div>
             </div>
-            <div class="ad-sidebar" style="min-height:50px;"></div>
+            <div class="ad-sidebar"></div>
         </aside>
     </div>
 
