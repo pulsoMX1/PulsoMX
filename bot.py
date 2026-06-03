@@ -4,7 +4,7 @@ import requests
 import xml.etree.ElementTree as ET
 import re
 from datetime import datetime
-from urllib.parse import quote
+from urllib.parse import quote, urlparse
 
 # ⚙️ CONFIGURACIÓN
 MODO_TURBO = True
@@ -12,6 +12,12 @@ NOTICIAS_POR_CARRERA = 10 if MODO_TURBO else 1
 RSS_URL = "https://news.google.com/rss/search?q=when:1d+geo:Mexico&hl=es-419&gl=MX&ceid=MX:es-419"
 JSON_PATH = "data/noticias.json"
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+
+HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+    'Accept-Language': 'es-MX,es;q=0.9,en;q=0.8',
+}
 
 def cargar_noticias():
     if not os.path.exists(JSON_PATH): return []
@@ -24,99 +30,114 @@ def guardar_noticias(noticias):
     with open(JSON_PATH, "w", encoding="utf-8") as f:
         json.dump(noticias, f, ensure_ascii=False, indent=2)
 
-def seguir_redireccion_google(url):
-    """Sigue la redirección de Google News hasta llegar a la URL real del artículo."""
+def decodificar_url_google(url):
+    """
+    Decodifica la URL ofuscada de Google News para obtener la URL real.
+    Google News usa un sistema de codificación base64 en la URL.
+    """
     try:
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-        }
-        r = requests.get(url, headers=headers, timeout=10, allow_redirects=True)
-        url_final = r.url
+        # Extraer el path de la URL de Google News
+        # Formato: https://news.google.com/rss/articles/ENCODED_DATA
+        if 'news.google.com' not in url:
+            return url
 
-        # Si sigue siendo de Google, buscar la URL real en el HTML
-        if 'google.com' in url_final or 'news.google' in url_final:
-            # Buscar href que apunte al artículo real
-            match = re.search(r'<a[^>]+href=["\'](https?://(?!.*google\.com)[^"\']+)["\']', r.text)
+        # Intentar seguir redirección con requests
+        r = requests.get(url, headers=HEADERS, timeout=10, allow_redirects=True)
+        
+        # Si la URL final ya no es de Google, la tenemos
+        if 'google.com' not in r.url and 'google.com' not in urlparse(r.url).netloc:
+            return r.url
+            
+        # Buscar la URL real en el HTML de respuesta
+        patterns = [
+            r'<c-wiz[^>]*>\s*<a[^>]+href=["\'](https?://(?!.*google\.com)[^"\']+)["\']',
+            r'"url":"(https?://(?!.*google\.com)[^"]+)"',
+            r'<a[^>]+href=["\'](https?://(?!.*(?:google|goo\.gl))[^"\']{20,})["\'][^>]*>[^<]*(?:Leer|Ver|Read)',
+        ]
+        
+        for pattern in patterns:
+            match = re.search(pattern, r.text)
             if match:
-                return match.group(1)
-            # Buscar canonical
-            canonical = re.search(r'<link[^>]+rel=["\']canonical["\'][^>]+href=["\'](https?://[^"\']+)["\']', r.text)
-            if canonical:
-                return canonical.group(1)
-
-        return url_final
-    except:
-        return url
-
-def extraer_imagen_noticia(url):
-    """Extrae la imagen og:image del artículo original."""
-    if not url or url == '#':
-        return None
-    try:
-        # Primero seguir la redirección de Google News
-        url_real = seguir_redireccion_google(url)
-        print(f"   🔗 URL real: {url_real[:70]}...")
-
-        # Ignorar si sigue siendo Google
-        if 'google.com' in url_real:
-            return None
-
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-            'Accept-Language': 'es-MX,es;q=0.9',
-        }
-        r = requests.get(url_real, headers=headers, timeout=12, allow_redirects=True)
-        if r.status_code != 200:
-            return None
-
-        html = r.text
-
-        # 1. og:image (más confiable)
-        og = re.search(r'<meta[^>]+property=["\']og:image["\'][^>]*content=["\'](https?://[^"\']+)["\']', html)
-        if og:
-            img = og.group(1)
-            if 'google' not in img and 'logo' not in img.lower():
-                return img
-
-        # Orden alternativo del atributo
-        og2 = re.search(r'<meta[^>]+content=["\'](https?://[^"\']+)["\'][^>]*property=["\']og:image["\']', html)
-        if og2:
-            img = og2.group(1)
-            if 'google' not in img and 'logo' not in img.lower():
-                return img
-
-        # 2. twitter:image
-        tw = re.search(r'<meta[^>]*name=["\']twitter:image["\'][^>]*content=["\'](https?://[^"\']+)["\']', html)
-        if tw:
-            img = tw.group(1)
-            if 'google' not in img:
-                return img
-
-        # 3. Primera imagen grande del artículo
-        imgs = re.findall(r'<img[^>]+src=["\'](https?://[^"\']+\.(jpg|jpeg|png|webp))["\']', html)
-        for img_url, _ in imgs:
-            if 'google' not in img_url and 'logo' not in img_url.lower() and 'icon' not in img_url.lower():
-                return img_url
-
+                candidate = match.group(1)
+                if len(candidate) > 20 and 'google' not in candidate:
+                    return candidate
+        
+        # Último intento: buscar cualquier URL externa en el HTML
+        all_urls = re.findall(r'https?://(?!(?:www\.)?google\.com)[a-zA-Z0-9\-\.]+\.[a-zA-Z]{2,}/[^\s"\'<>]{10,}', r.text)
+        news_domains = [u for u in all_urls if any(d in u for d in [
+            'excelsior', 'milenio', 'reforma', 'proceso', 'jornada', 'universal',
+            'televisa', 'azteca', 'infobae', 'expansion', 'forbes', 'animal',
+            'debate', 'heraldo', 'noticias', 'notimex', 'record', 'espn',
+            'mediotiempo', 'goal', 'marca', 'as.com', 'bbc', 'cnn', 'reuters'
+        ])]
+        if news_domains:
+            return news_domains[0]
+            
     except Exception as e:
-        print(f"   ⚠️ Error al extraer imagen: {e}")
+        print(f"   ⚠️ Error decodificando URL: {e}")
     return None
 
-def generar_imagen_fallback(titulo):
-    """Imagen de respaldo si no se puede extraer la original."""
+def extraer_imagen_de_articulo(url_real):
+    """Extrae og:image de la URL real del artículo."""
+    if not url_real:
+        return None
+    try:
+        r = requests.get(url_real, headers=HEADERS, timeout=12, allow_redirects=True)
+        if r.status_code != 200:
+            return None
+        html = r.text
+
+        # Buscar og:image en todas sus variantes
+        patrones_og = [
+            r'<meta[^>]+property=["\']og:image["\'][^>]*content=["\'](https?://[^"\'?\s]+)["\']',
+            r'<meta[^>]+content=["\'](https?://[^"\'?\s]+)["\'][^>]*property=["\']og:image["\']',
+            r'<meta[^>]+property=["\']og:image:url["\'][^>]*content=["\'](https?://[^"\'?\s]+)["\']',
+        ]
+        for patron in patrones_og:
+            m = re.search(patron, html, re.IGNORECASE)
+            if m:
+                img = m.group(1).split('?')[0] if '?' in m.group(1) else m.group(1)
+                if ('google' not in img and 'logo' not in img.lower() 
+                    and 'icon' not in img.lower() and len(img) > 20):
+                    return m.group(1)  # Retornar con parámetros para algunos CDNs
+
+        # twitter:image
+        tw = re.search(r'<meta[^>]*name=["\']twitter:image["\'][^>]*content=["\'](https?://[^"\'?\s]+)["\']', html, re.IGNORECASE)
+        if tw:
+            img = tw.group(1)
+            if 'google' not in img and 'logo' not in img.lower():
+                return img
+
+    except Exception as e:
+        print(f"   ⚠️ Error extrayendo imagen: {e}")
+    return None
+
+def imagen_fallback(titulo):
+    """Fallback: imagen temática de Picsum basada en seed del título."""
     seed = abs(hash(titulo)) % 9999
     return f"https://picsum.photos/seed/{seed}/800/500"
 
-def generar_imagen_relevante(titulo, url_origen=None):
-    """Intenta extraer imagen real de la noticia, con fallback a Picsum."""
-    if url_origen and url_origen != '#':
-        img = extraer_imagen_noticia(url_origen)
+def obtener_imagen(titulo, url_google):
+    """Pipeline completo para obtener imagen relevante de la noticia."""
+    
+    # Paso 1: Decodificar URL de Google News → URL real del artículo
+    print(f"   🔗 Decodificando URL de Google News...")
+    url_real = decodificar_url_google(url_google)
+    
+    if url_real:
+        print(f"   🌐 URL real: {url_real[:65]}...")
+        
+        # Paso 2: Extraer og:image del artículo real
+        img = extraer_imagen_de_articulo(url_real)
         if img:
-            print(f"🖼️ Imagen extraída: {img[:60]}...")
-            return img
-    print(f"🖼️ Usando imagen de respaldo para: {titulo[:40]}")
-    return generar_imagen_fallback(titulo)
+            print(f"   🖼️ Imagen extraída del artículo ✅")
+            return img, url_real
+        else:
+            print(f"   ⚠️ No se encontró imagen en el artículo, usando fallback")
+    else:
+        print(f"   ⚠️ No se pudo decodificar la URL, usando fallback")
+    
+    return imagen_fallback(titulo), url_google
 
 def reescribir_con_ia(titulo_orig):
     if not GROQ_API_KEY:
@@ -140,7 +161,7 @@ Instrucciones OBLIGATORIAS:
   * Al menos 4 párrafos de desarrollo con contexto, antecedentes, detalles relevantes e impacto
   * Citas o declaraciones probables de los involucrados (puedes inferirlas de forma periodística)
   * Párrafo de cierre con perspectivas o lo que se espera a futuro
-  * Usa párrafos separados por saltos de línea (\n\n)
+  * Usa párrafos separados por saltos de línea (\\n\\n)
   * Escribe en tono periodístico formal pero accesible para el público mexicano general
 
 Responde ÚNICAMENTE con un JSON válido con estas tres claves exactas: "titulo", "resumen", "contenido". Sin texto extra, sin markdown, sin explicaciones."""
@@ -158,24 +179,19 @@ Responde ÚNICAMENTE con un JSON válido con estas tres claves exactas: "titulo"
         res = r.json()
         contenido_crudo = res['choices'][0]['message']['content']
         data = json.loads(contenido_crudo)
-
         titulo = data.get("titulo", titulo_orig)[:120]
         resumen = data.get("resumen", "Noticia importante de México.")
         contenido = data.get("contenido", "Revisa el enlace original para más detalles.")
-
-        # Verificar que el contenido tenga suficiente texto
         if len(contenido.split()) < 200:
             contenido += "\n\n" + resumen
-
         return titulo, resumen, contenido
-
     except Exception as e:
         print(f"⚠️ Error IA: {e}")
         return titulo_orig, "Noticia importante de México.", "Revisa el enlace original para más detalles."
 
 def ejecutar():
     try:
-        res = requests.get(RSS_URL, timeout=10)
+        res = requests.get(RSS_URL, headers=HEADERS, timeout=10)
         root = ET.fromstring(res.content)
     except Exception as e:
         print(f"❌ Error RSS: {e}")
@@ -187,25 +203,31 @@ def ejecutar():
     for item in root.findall(".//item")[:NOTICIAS_POR_CARRERA]:
         t_orig = item.find("title").text
 
-        # Extraer URL real — Google News la mete en <link> o dentro del <description>
+        # Obtener URL del RSS (será URL de Google News)
         link_elem = item.find("link")
-        link = link_elem.text if link_elem is not None and link_elem.text else ""
+        link_google = ""
+        if link_elem is not None and link_elem.text:
+            link_google = link_elem.text
+        else:
+            # A veces está como texto después del tag link en el XML
+            for child in item:
+                if child.tag == 'link' and child.tail:
+                    link_google = child.tail.strip()
+                    break
 
-        # A veces Google News pone la URL real en el tag después de <link>
-        if not link or 'news.google' in link:
-            desc = item.find("description")
-            if desc is not None and desc.text:
-                url_match = re.search(r'href=["\'](https?://(?!.*news\.google)[^"\']+)["\']', desc.text)
-                if url_match:
-                    link = url_match.group(1)
+        # También intentar desde el tag guid
+        if not link_google:
+            guid = item.find("guid")
+            if guid is not None and guid.text:
+                link_google = guid.text
 
         if any(n.get('titulo_original') == t_orig for n in noticias_guardadas):
             continue
 
-        print(f"🔄 Procesando: {t_orig[:60]}...")
+        print(f"\n🔄 Procesando: {t_orig[:60]}...")
         t_ia, r_ia, c_ia = reescribir_con_ia(t_orig)
 
-        img_url = generar_imagen_relevante(t_ia, url_origen=link)
+        img_url, url_real = obtener_imagen(t_ia, link_google)
 
         nuevo_id = max([n["id"] for n in noticias_guardadas], default=0) + 1
         noticias_guardadas.append({
@@ -216,17 +238,16 @@ def ejecutar():
             "contenido": c_ia,
             "imagen": img_url,
             "fecha": datetime.today().strftime('%Y-%m-%d'),
-            "url_origen": link
+            "url_origen": url_real
         })
         nuevos += 1
         print(f"✅ Guardada: {t_ia[:50]} ({len(c_ia.split())} palabras)")
 
     if nuevos > 0:
-        # Mantener solo las últimas 100 noticias para no crecer infinito
         if len(noticias_guardadas) > 100:
             noticias_guardadas = noticias_guardadas[-100:]
         guardar_noticias(noticias_guardadas)
-        print(f"💾 Guardadas {nuevos} noticias nuevas.")
+        print(f"\n💾 Guardadas {nuevos} noticias nuevas.")
     else:
         print("ℹ️ No hay noticias nuevas.")
 
