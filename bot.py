@@ -2,110 +2,73 @@ import os
 import json
 import requests
 import xml.etree.ElementTree as ET
-from datetime import datetime
 from bs4 import BeautifulSoup
 import urllib.parse
 import base64
 import re
 
-# ⚙️ CONFIGURACIÓN DEL BOT
-MODO_TURBO = True
-NOTICIAS_POR_CARRERA = 10 if MODO_TURBO else 1
-RSS_URL = "https://news.google.com/rss/search?q=when:1d+geo:Mexico&hl=es-419&gl=MX&ceid=MX:es-419"
+# ⚙️ CONFIGURACIÓN
 JSON_PATH = "data/noticias.json"
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+RSS_URL = "https://news.google.com/rss/search?q=when:1d+geo:Mexico&hl=es-419&gl=MX&ceid=MX:es-419"
 
-# Headers potentes
+# 🔥 CABECERAS NINJA: Esto hace que parezcas un Chrome real desde Windows
 HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-    'Accept-Language': 'es-MX,es;q=0.9'
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+    'Accept-Language': 'es-MX,es;q=0.9',
+    'Referer': 'https://www.google.com/',
+    'Connection': 'keep-alive',
+    'Upgrade-Insecure-Requests': '1',
+    'Sec-Fetch-Dest': 'document',
+    'Sec-Fetch-Mode': 'navigate',
+    'Sec-Fetch-Site': 'cross-site'
 }
-
-# 🔑 LA LLAVE MAESTRA: Evita que Google nos bloquee con la pantalla de "Aceptar Cookies"
-COOKIES_GOOGLE = {'CONSENT': 'YES+cb.20210720-07-p0.es+FX+410'}
 
 FALLBACK_IMAGE_URL = "https://images.unsplash.com/photo-1504711434269-d0385429813a?q=80&w=800&auto=format&fit=crop"
 
-def cargar_noticias():
-    if not os.path.exists(JSON_PATH): return []
-    with open(JSON_PATH, "r", encoding="utf-8") as f:
-        try: return json.load(f)
-        except: return []
-
-def guardar_noticias(noticias):
-    os.makedirs(os.path.dirname(JSON_PATH), exist_ok=True)
-    with open(JSON_PATH, "w", encoding="utf-8") as f:
-        json.dump(noticias, f, ensure_ascii=False, indent=2)
-
 def obtener_url_real_definitiva(google_url):
-    """Atraviesa la seguridad de Google News forzando la extracción del link original"""
-    
-    # 1. Petición inyectando las Cookies de aprobación
+    """Extrae el link real usando un método más agresivo."""
     try:
-        res = requests.get(google_url, headers=HEADERS, cookies=COOKIES_GOOGLE, timeout=10)
-        soup = BeautifulSoup(res.text, 'html.parser')
+        # A veces el link ya es directo, si no, intentamos obtenerlo
+        res = requests.get(google_url, headers=HEADERS, timeout=10)
         
-        # Buscar el enlace directo que Google esconde
-        for a in soup.find_all('a', href=True):
-            url = a['href']
-            # Filtramos enlaces basura de Google
-            if url.startswith('http') and 'google.com' not in url and 'youtube.com' not in url:
+        # Intentar extraer el link de redirección que Google pone en su HTML
+        match = re.search(r'window\.location\.replace\("([^"]+)"\)', res.text)
+        if match:
+            return match.group(1)
+            
+        # Fallback a buscar en el cuerpo de la página
+        links = BeautifulSoup(res.text, 'html.parser').find_all('a')
+        for link in links:
+            url = link.get('href', '')
+            if url.startswith('http') and 'news.google.com' not in url and 'google.com' not in url:
                 return url
-                
-        # Estructura de etiquetas nueva de Google (c-wiz)
-        for tag in soup.find_all(attrs={'data-n-a': True}):
-            url = tag['data-n-a']
-            if url.startswith('http') and 'google.com' not in url:
-                return url
-    except Exception as e:
-        print(f"⚠️ Error leyendo página de Google: {e}")
-
-    # 2. Decodificación matemática agresiva como plan de respaldo
-    try:
-        if "articles/" in google_url:
-            codigo = google_url.split("articles/")[1].split("?")[0]
-            codigo += "=" * ((4 - len(codigo) % 4) % 4)
-            decoded = base64.urlsafe_b64decode(codigo)
-            match = re.search(rb'(https?://[a-zA-Z0-9\.\-\_\/\?\&\=\%]+)', decoded)
-            if match:
-                url_limpia = match.group(1).decode('utf-8')
-                if "google.com" not in url_limpia:
-                    return url_limpia
-    except Exception:
+    except:
         pass
-
     return google_url
 
 def obtener_imagen_periodico(url_real):
-    """Entra a la página del periódico real y roba su imagen principal"""
-    if "news.google.com" in url_real:
-        return FALLBACK_IMAGE_URL
-        
+    """Entra a la web y busca la imagen de portada o la primera grande."""
     try:
-        res = requests.get(url_real, headers=HEADERS, timeout=12, allow_redirects=True)
+        res = requests.get(url_real, headers=HEADERS, timeout=10)
         soup = BeautifulSoup(res.content, 'html.parser')
         
-        # 1. Intentamos buscar las etiquetas oficiales de portada
-        img_tag = soup.find("meta", property="og:image") or \
-                  soup.find("meta", attrs={"name": "twitter:image"}) or \
-                  soup.find("meta", itemprop="image")
-                  
-        if img_tag and img_tag.get("content"):
-            imagen = img_tag["content"]
-            if imagen.startswith("/"):
-                imagen = urllib.parse.urljoin(url_real, imagen)
-            return imagen
+        # 1. Intentar con meta tags estándar
+        meta_img = soup.find("meta", property="og:image") or soup.find("meta", attrs={"name": "twitter:image"})
+        if meta_img and meta_img.get("content"):
+            return meta_img["content"]
             
-        # 2. Si es un periódico mal estructurado, robamos la primera imagen del artículo
-        primera_img = soup.find("img")
-        if primera_img and primera_img.get("src"):
-            if primera_img["src"].startswith("http"):
-                return primera_img["src"]
+        # 2. Si falló, buscar la imagen más grande dentro del artículo
+        imgs = soup.find_all("img")
+        for img in imgs:
+            src = img.get("src", "")
+            # Filtramos iconos o logos pequeños
+            if src.startswith("http") and len(src) > 50:
+                return src
                 
-    except Exception as e:
-        print(f"⚠️ Error buscando imagen en {url_real[:30]}: {e}")
-        
+    except:
+        pass
     return FALLBACK_IMAGE_URL
 
 def reescribir_con_ia(titulo_orig):
