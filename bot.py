@@ -1,5 +1,4 @@
 import os
-import urllib.parse 
 import json
 import requests
 import xml.etree.ElementTree as ET
@@ -11,7 +10,7 @@ from bs4 import BeautifulSoup
 
 # ⚙️ CONFIGURACIÓN
 MODO_TURBO = True
-NOTICIAS_POR_CARRERA = 10 if MODO_TURBO else 1
+NOTICIAS_POR_CARRERA = 3 if MODO_TURBO else 1
 
 # 🔥 RSS directos de fuentes mexicanas.
 RSS_FEEDS = [
@@ -87,12 +86,8 @@ def obtener_imagen(titulo, url_real):
     
     if img:
         print(f"   🖼️ Imagen extraída del artículo ✅")
-        
-        # 🔥 EL FIX: Codificamos la URL para que los símbolos raros no rompan el proxy
-        url_segura = urllib.parse.quote(img, safe='')
-        img_proxy = f"https://wsrv.nl/?url={url_segura}"
-        
-        return img_proxy, url_real
+        # SOLO MODIFICA LA LÍNEA DEL RETURN PARA AGREGAR EL PROXY
+        return f"https://wsrv.nl/?url={img}", url_real
     else:
         print(f"   ⚠️ No se encontró imagen en el artículo, usando fallback")
         return imagen_fallback(titulo), url_real
@@ -216,7 +211,7 @@ def ejecutar():
             print(f"✅ Guardada: {t_ia[:50]} ({len(c_ia.split())} palabras)")
             
             # ⏱️ Pausa obligatoria para evitar el bloqueo de Groq (Rate Limit)
-            time.sleep(10)
+            time.sleep(4)
 
     if nuevos > 0:
         if len(noticias_guardadas) > 100:
