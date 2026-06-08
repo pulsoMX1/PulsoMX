@@ -248,14 +248,39 @@
                 document.getElementById('article-wrapper').style.display = 'grid';
 
                 // --- LÓGICA DE LA BARRA DE PROGRESO AUTOMÁTICA ---
-                if (userId && id) {
-                    const widget = document.getElementById('reward-widget');
-                    widget.style.display = 'block';
-                    
-                    const tiempoTotal = 30; 
-                    let segundosActuales = 0;
-                    const progressBar = document.getElementById('reward-progress');
-                    const rewardText = document.getElementById('reward-text');
+               if (userId && id) {
+    const widget = document.getElementById('reward-widget');
+    const progressBar = document.getElementById('reward-progress');
+    const rewardText = document.getElementById('reward-text');
+    widget.style.display = 'block';
+
+    // Verificar PRIMERO si ya cobró esta noticia antes de iniciar el contador
+    try {
+        const checkRes = await fetch('https://meiwuluwrdjszxeyoqtt.supabase.co/functions/v1/verificar-noticia', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ uid: userId, newsId: id })
+        });
+        const checkData = await checkRes.json();
+
+        if (checkData.ya_leida) {
+            // Mostrar barra roja inmediatamente
+            progressBar.style.transition = 'width 0.4s ease';
+            progressBar.style.width = '100%';
+            progressBar.style.background = '#ef4444';
+            rewardText.innerHTML = '<i class="fa-solid fa-circle-exclamation" style="color:#ef4444;"></i> Ya cobraste esta noticia';
+            setTimeout(() => {
+                widget.style.opacity = '0';
+                setTimeout(() => widget.style.display = 'none', 500);
+            }, 3000);
+            return; // No iniciar el contador
+        }
+    } catch(e) {
+        // Si falla la verificación, dejamos que el flujo normal continúe
+    }
+
+    const tiempoTotal = 30; 
+    let segundosActuales = 0;
 
                     const intervaloProgreso = setInterval(async () => {
                         segundosActuales++;
