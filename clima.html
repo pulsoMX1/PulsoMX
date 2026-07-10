@@ -86,12 +86,8 @@
     </header>
 
     <div class="ad-container">
-        <div class="ad-728">
-            <iframe title="Publicidad" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation" width="728" height="90" frameborder="0" scrolling="no" style="border:none;max-width:100%;" srcdoc="<html><body style='margin:0;overflow:hidden;'><script>atOptions = {'key':'a8e7cb655ddcbb7f2cccc17b6ec2d6d5','format':'iframe','height':90,'width':728,'params':{}};</script><script src='https://www.highperformanceformat.com/a8e7cb655ddcbb7f2cccc17b6ec2d6d5/invoke.js'></script></body></html>"></iframe>
-        </div>
-        <div class="ad-320">
-            <iframe title="Publicidad" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation" width="320" height="50" frameborder="0" scrolling="no" style="border:none;max-width:100%;" srcdoc="<html><body style='margin:0;overflow:hidden;'><script>atOptions = {'key':'d81fb80d3a74926f5784b40947a9ab68','format':'iframe','height':50,'width':320,'params':{}};</script><script src='https://www.highperformanceformat.com/d81fb80d3a74926f5784b40947a9ab68/invoke.js'></script></body></html>"></iframe>
-        </div>
+        <div class="ad-728" id="ad-slot-728"></div>
+        <div class="ad-320" id="ad-slot-320"></div>
     </div>
 
     
@@ -155,15 +151,13 @@
 
     </div>
 
-    <div style="max-width:800px; margin:24px auto 0; padding:0 16px;">
-        <iframe title="Publicidad" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation" style="width:100%; border:none; height:250px;" srcdoc="<html><body style='margin:0;'><div id='container-c242865b5697b34c2e6ac92e118e339e'></div><script async='async' data-cfasync='false' src='https://pl30307316.effectivecpmnetwork.com/c242865b5697b34c2e6ac92e118e339e/invoke.js'></script></body></html>"></iframe>
-    </div>
+    <div style="max-width:800px; margin:24px auto 0; padding:0 16px;" id="ad-slot-native"></div>
 
     <footer>
         <p>© 2026 PulsoMX — Reporte meteorológico automatizado mediante IP-API y Open-Meteo.</p>
     </footer>
 
-    <iframe title="Publicidad" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation" style="position:fixed; bottom:0; right:0; width:300px; height:300px; max-width:100vw; max-height:60vh; border:none; background:transparent; z-index:9999;" srcdoc="<html><body style='margin:0;background:transparent;'><script src='https://pl30307315.effectivecpmnetwork.com/91/88/b2/9188b2df041f1d05f7969590592903fa.js'></script></body></html>"></iframe>
+    <div id="ad-slot-socialbar"></div>
 
     <script>
         // Mapeo completo de WMO Códigos de Clima a Icono y Descripción en Español
@@ -276,6 +270,69 @@
                     <p style="margin-top:10px;">No se pudo sincronizar el clima por IP en este dispositivo móvil de forma automática.</p>
                 `;
             });
+    </script>
+
+    <!-- ══ ANUNCIOS: solo se insertan si el usuario NO es premium ══ -->
+    <script>
+        const SANDBOX_ADS = 'allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation';
+
+        function crearIframeAd(srcdocHtml, cssTexto) {
+            const ifr = document.createElement('iframe');
+            ifr.title = 'Publicidad';
+            ifr.setAttribute('sandbox', SANDBOX_ADS);
+            ifr.setAttribute('frameborder', '0');
+            ifr.setAttribute('scrolling', 'no');
+            ifr.style.cssText = cssTexto;
+            ifr.srcdoc = srcdocHtml;
+            return ifr;
+        }
+
+        async function esUsuarioPremium() {
+            try {
+                const uid = new URLSearchParams(window.location.search).get('uid');
+                if (!uid) return false;
+                const res = await fetch('https://meiwuluwrdjszxeyoqtt.supabase.co/functions/v1/verificar-premium', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ uid })
+                });
+                const data = await res.json();
+                return !!data.is_premium;
+            } catch (e) {
+                return false;
+            }
+        }
+
+        async function inicializarAnuncios() {
+            const premium = await esUsuarioPremium();
+            if (premium) return; // Usuario premium: no se inserta ningun anuncio
+
+            const slot728 = document.getElementById('ad-slot-728');
+            if (slot728) slot728.appendChild(crearIframeAd(
+                `<html><body style='margin:0;overflow:hidden;'><script>atOptions = {'key':'a8e7cb655ddcbb7f2cccc17b6ec2d6d5','format':'iframe','height':90,'width':728,'params':{}};<\/script><script src='https://www.highperformanceformat.com/a8e7cb655ddcbb7f2cccc17b6ec2d6d5/invoke.js'><\/script></body></html>`,
+                'width:728px;height:90px;max-width:100%;border:none;'
+            ));
+
+            const slot320 = document.getElementById('ad-slot-320');
+            if (slot320) slot320.appendChild(crearIframeAd(
+                `<html><body style='margin:0;overflow:hidden;'><script>atOptions = {'key':'d81fb80d3a74926f5784b40947a9ab68','format':'iframe','height':50,'width':320,'params':{}};<\/script><script src='https://www.highperformanceformat.com/d81fb80d3a74926f5784b40947a9ab68/invoke.js'><\/script></body></html>`,
+                'width:320px;height:50px;max-width:100%;border:none;'
+            ));
+
+            const slotNative = document.getElementById('ad-slot-native');
+            if (slotNative) slotNative.appendChild(crearIframeAd(
+                `<html><body style='margin:0;'><div id='container-c242865b5697b34c2e6ac92e118e339e'></div><script async='async' data-cfasync='false' src='https://pl30307316.effectivecpmnetwork.com/c242865b5697b34c2e6ac92e118e339e/invoke.js'><\/script></body></html>`,
+                'width:100%;border:none;height:250px;'
+            ));
+
+            const slotSocial = document.getElementById('ad-slot-socialbar');
+            if (slotSocial) slotSocial.appendChild(crearIframeAd(
+                `<html><body style='margin:0;background:transparent;'><script src='https://pl30307315.effectivecpmnetwork.com/91/88/b2/9188b2df041f1d05f7969590592903fa.js'><\/script></body></html>`,
+                'position:fixed;bottom:0;right:0;width:300px;height:300px;max-width:100vw;max-height:60vh;border:none;background:transparent;z-index:9999;'
+            ));
+        }
+
+        inicializarAnuncios();
     </script>
 
     </body>
