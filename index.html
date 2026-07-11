@@ -289,7 +289,7 @@
                 <a href="privacidad.html" class="hide-xs">Privacidad</a>
                 <a href="terminos.html" class="hide-xs">Términos</a>
                 <a href="contacto.html" class="hide-xs">Contacto</a>
-                <a href="clima.html" class="btn-clima-header">
+                <a href="clima.html" id="link-clima-header" class="btn-clima-header">
                     <i class="fa-solid fa-cloud-sun"></i> <span>Clima</span>
                 </a>
             </nav>
@@ -347,6 +347,12 @@
         const urlParams = new URLSearchParams(window.location.search);
         const uid = urlParams.get('uid');
         const complementoUid = uid ? `&uid=${uid}` : '';
+
+        // Reenviamos el uid también al botón de Clima del header, que antes
+        // apuntaba fijo a "clima.html" sin pasar el uid (por eso premium no
+        // ocultaba los anuncios ahí).
+        const linkClima = document.getElementById('link-clima-header');
+        if (linkClima && uid) linkClima.href = `clima.html?uid=${uid}`;
 
         /* ══ NOTICIAS ══ */
         fetch("data/noticias.json")
