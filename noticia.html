@@ -364,8 +364,8 @@ if (userId && id) {
         }
 
         async function inicializarAnuncios() {
-            const premium = await esUsuarioPremium();
-            if (premium) return; // Usuario premium: no se inserta ningun anuncio
+            // Beneficio "sin anuncios" removido de Premium: los anuncios ahora
+            // se insertan para todos los usuarios, sean o no premium.
 
             const slot728 = document.getElementById('ad-slot-728');
             if (slot728) slot728.appendChild(crearIframeAd(
