@@ -1,45 +1,5 @@
 [
   {
-    "id": 2686,
-    "titulo_original": "Felipe Ávila*: La Segunda República Española   ",
-    "titulo": "Felipe Ávila*: La Segunda República Española",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-17",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/politica/014a1pol?partner=rss"
-  },
-  {
-    "id": 2687,
-    "titulo_original": "José Murat/I: Los nuevos señores feudales   ",
-    "titulo": "José Murat/I: Los nuevos señores feudales",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-17",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/politica/010a1pol?partner=rss"
-  },
-  {
-    "id": 2688,
-    "titulo_original": "Sergio Ramírez: Libros prohibidos   ",
-    "titulo": "Sergio Ramírez: Libros prohibidos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-17",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/politica/015a1pol?partner=rss"
-  },
-  {
-    "id": 2689,
-    "titulo_original": "Sismos de Venezuela y Colombia no tendrán impacto en el país   ",
-    "titulo": "Sismos de Venezuela y Colombia no tendrán impacto en el país",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-17",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/politica/012n2pol?partner=rss"
-  },
-  {
     "id": 2690,
     "titulo_original": "Inhabilitan e imponen multas millonarias a  41 servidores públicos    ",
     "titulo": "Inhabilitan e imponen multas millonarias a 41 servidores públicos",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-19",
     "url_origen": "https://www.jornada.com.mx/2026/08/19/politica/015a1pol?partner=rss"
+  },
+  {
+    "id": 2786,
+    "titulo_original": "Enrique Galván Ochoa: Dinero   ",
+    "titulo": "Enrique Galván Ochoa: Dinero",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F19%2Ffotos%2F006o1eco-1.jpg",
+    "fecha": "2026-08-19",
+    "url_origen": "https://www.jornada.com.mx/2026/08/19/opinion/006o1eco?partner=rss"
+  },
+  {
+    "id": 2787,
+    "titulo_original": "México y Guatemala pactan el Plan Binacional 2027   ",
+    "titulo": "México y Guatemala pactan el Plan Binacional 2027",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-19",
+    "url_origen": "https://www.jornada.com.mx/2026/08/19/politica/012n2pol?partner=rss"
+  },
+  {
+    "id": 2788,
+    "titulo_original": "Aun sin tener causa grave, hoy Morena aceptará la renuncia de Mónica Soto    ",
+    "titulo": "Aun sin tener causa grave, hoy Morena aceptará la renuncia de Mónica Soto",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-19",
+    "url_origen": "https://www.jornada.com.mx/2026/08/19/politica/007n3pol?partner=rss"
+  },
+  {
+    "id": 2789,
+    "titulo_original": "Universidades privadas buscan atraer a futuros alumnos de licenciatura   ",
+    "titulo": "Universidades privadas buscan atraer a futuros alumnos de licenciatura",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-19",
+    "url_origen": "https://www.jornada.com.mx/2026/08/19/politica/009n2pol?partner=rss"
   }
 ]
