@@ -1,45 +1,5 @@
 [
   {
-    "id": 2682,
-    "titulo_original": "Enrique Galván Ochoa: Dinero   ",
-    "titulo": "Enrique Galván Ochoa: Dinero",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-17",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/opinion/006o1eco?partner=rss"
-  },
-  {
-    "id": 2683,
-    "titulo_original": "Un hijo propio retrata las presiones invisibles que atañen a la maternidad    ",
-    "titulo": "Un hijo propio retrata las presiones invisibles que atañen a la maternidad",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F17%2Ffotos%2Fa06n1esp-1.jpg",
-    "fecha": "2026-08-17",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/espectaculos/a06n1esp?partner=rss"
-  },
-  {
-    "id": 2684,
-    "titulo_original": "David Brooks: American curios   ",
-    "titulo": "David Brooks: American curios",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F17%2Ffotos%2F023o1mun-1.jpg",
-    "fecha": "2026-08-17",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/opinion/023o1mun?partner=rss"
-  },
-  {
-    "id": 2685,
-    "titulo_original": "Insta ministro de Seguridad de Israel a asesinar 40 palestinos cada noche   ",
-    "titulo": "Insta ministro de Seguridad de Israel a asesinar 40 palestinos cada noche",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F17%2Ffotos%2F020n1mun-1.jpg",
-    "fecha": "2026-08-17",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/mundo/020n1mun?partner=rss"
-  },
-  {
     "id": 2686,
     "titulo_original": "Felipe Ávila*: La Segunda República Española   ",
     "titulo": "Felipe Ávila*: La Segunda República Española",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F19%2Ffotos%2Fa11n3dep-1.jpg",
     "fecha": "2026-08-19",
     "url_origen": "https://www.jornada.com.mx/2026/08/19/deportes/a11n3dep?partner=rss"
+  },
+  {
+    "id": 2782,
+    "titulo_original": "Murió Frank Beard, baterista de ZZ Top    ",
+    "titulo": "Murió Frank Beard, baterista de ZZ Top",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F19%2Ffotos%2Fa09n2esp-1.jpg",
+    "fecha": "2026-08-19",
+    "url_origen": "https://www.jornada.com.mx/2026/08/19/espectaculos/a09n2esp?partner=rss"
+  },
+  {
+    "id": 2783,
+    "titulo_original": "Asesor de Paz y Milei, acusado de mandar asesinar a su ex pareja   ",
+    "titulo": "Asesor de Paz y Milei, acusado de mandar asesinar a su ex pareja",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F19%2Ffotos%2F020n1mun-1.jpg",
+    "fecha": "2026-08-19",
+    "url_origen": "https://www.jornada.com.mx/2026/08/19/mundo/020n1mun?partner=rss"
+  },
+  {
+    "id": 2784,
+    "titulo_original": "José Steinsleger: Ezra Shabot y Enrique Krauze, compadres del mal absoluto   ",
+    "titulo": "José Steinsleger: Ezra Shabot y Enrique Krauze, compadres del mal absoluto",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-19",
+    "url_origen": "https://www.jornada.com.mx/2026/08/19/politica/014a1pol?partner=rss"
+  },
+  {
+    "id": 2785,
+    "titulo_original": "Juan Becerra Acosta: Regular las pantallas, recuperar el aula   ",
+    "titulo": "Juan Becerra Acosta: Regular las pantallas, recuperar el aula",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-19",
+    "url_origen": "https://www.jornada.com.mx/2026/08/19/politica/015a1pol?partner=rss"
   }
 ]
