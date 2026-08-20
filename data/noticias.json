@@ -1,45 +1,5 @@
 [
   {
-    "id": 2694,
-    "titulo_original": "Concesionarias de autopistas urbanas  triplicaron sus ganancias en seis años   ",
-    "titulo": "Concesionarias de autopistas urbanas triplicaron sus ganancias en seis años",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F17%2Ffotos%2F027n1cap-1.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/capital/027n1cap?partner=rss"
-  },
-  {
-    "id": 2695,
-    "titulo_original": "León Bendesky: Un dólar por 17.02 pesos   ",
-    "titulo": "León Bendesky: Un dólar por 17.02 pesos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/economia/017a1eco?partner=rss"
-  },
-  {
-    "id": 2696,
-    "titulo_original": "Actualizan protocolos  sobre los desaparecidos   ",
-    "titulo": "Actualizan protocolos sobre los desaparecidos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/politica/009n3pol?partner=rss"
-  },
-  {
-    "id": 2697,
-    "titulo_original": "Julio Hernández López: Astillero   ",
-    "titulo": "Julio Hernández López: Astillero",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F17%2Ffotos%2F008o1pol-1.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/opinion/008o1pol?partner=rss"
-  },
-  {
     "id": 2698,
     "titulo_original": "Empresas españolas edificarán planta desaladora en Playas de Rosarito, BC   ",
     "titulo": "Empresas españolas edificarán planta desaladora en Playas de Rosarito, BC",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F19%2Ffotos%2F027n1cap-1.jpg",
     "fecha": "2026-08-20",
     "url_origen": "https://www.jornada.com.mx/2026/08/19/capital/027n1cap?partner=rss"
+  },
+  {
+    "id": 2794,
+    "titulo_original": "Bloquean banca comercial y otros intermediarios el crédito público   ",
+    "titulo": "Bloquean banca comercial y otros intermediarios el crédito público",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/19/economia/017n2eco?partner=rss"
+  },
+  {
+    "id": 2795,
+    "titulo_original": "La petroquímica Braskem Idesa se acoge a ley de quiebras en EU   ",
+    "titulo": "La petroquímica Braskem Idesa se acoge a ley de quiebras en EU",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/19/economia/019n3eco?partner=rss"
+  },
+  {
+    "id": 2796,
+    "titulo_original": "Hoteleros de Cancún no invertirán en remoción de sargazo en altamar    ",
+    "titulo": "Hoteleros de Cancún no invertirán en remoción de sargazo en altamar",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/19/estados/026n2est?partner=rss"
+  },
+  {
+    "id": 2797,
+    "titulo_original": "Madonna superó a Taylor Swift en nominaciones de los premios MTV   ",
+    "titulo": "Madonna superó a Taylor Swift en nominaciones de los premios MTV",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F19%2Ffotos%2Fa09n3esp-1.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/19/espectaculos/a09n3esp?partner=rss"
   }
 ]
