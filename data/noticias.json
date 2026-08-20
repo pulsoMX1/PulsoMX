@@ -1,45 +1,5 @@
 [
   {
-    "id": 2714,
-    "titulo_original": "Editorial:     Ediciones Era: luto latinoamericano       ",
-    "titulo": "Editorial: Ediciones Era: luto latinoamericano",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/opinion/002a1edi?partner=rss"
-  },
-  {
-    "id": 2715,
-    "titulo_original": "Participaron 391 mil 251 personas en la clase masiva de box   ",
-    "titulo": "Participaron 391 mil 251 personas en la clase masiva de box",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/deportes/a12n3dep?partner=rss"
-  },
-  {
-    "id": 2716,
-    "titulo_original": "Miguel Pineda: Negocios y empresas   ",
-    "titulo": "Miguel Pineda: Negocios y empresas",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/opinion/016o1eco?partner=rss"
-  },
-  {
-    "id": 2717,
-    "titulo_original": "Presupuesto de $46.9 mil millones, conforme a la ley, defiende Taddei   ",
-    "titulo": "Presupuesto de $46.9 mil millones, conforme a la ley, defiende Taddei",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F18%2Ffotos%2F005n2pol-1.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/politica/005n2pol?partner=rss"
-  },
-  {
     "id": 2718,
     "titulo_original": "Sabor caribeño de Annys Batista obtiene premio internacional en Polonia   ",
     "titulo": "Sabor caribeño de Annys Batista obtiene premio internacional en Polonia",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F19%2Ffotos%2Fa05n2cul-1.jpg",
     "fecha": "2026-08-20",
     "url_origen": "https://www.jornada.com.mx/2026/08/19/cultura/a05n2cul?partner=rss"
+  },
+  {
+    "id": 2814,
+    "titulo_original": "Cae la Corte en contradicción sobre la consulta a personas con discapacidad   ",
+    "titulo": "Cae la Corte en contradicción sobre la consulta a personas con discapacidad",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F20%2Ffotos%2F005n2pol-1.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/005n2pol?partner=rss"
+  },
+  {
+    "id": 2815,
+    "titulo_original": "Murió el realizador John Irvin   ",
+    "titulo": "Murió el realizador John Irvin",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F20%2Ffotos%2Fa08n2esp-1.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/espectaculos/a08n2esp?partner=rss"
+  },
+  {
+    "id": 2816,
+    "titulo_original": "Fidel Castro, líder que transformó AL y el Caribe    ",
+    "titulo": "Fidel Castro, líder que transformó AL y el Caribe",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/008n1pol?partner=rss"
+  },
+  {
+    "id": 2817,
+    "titulo_original": "Habitante de Naco afectado por derrame de químico continúa en estado crítico    ",
+    "titulo": "Habitante de Naco afectado por derrame de químico continúa en estado crítico",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/estados/024n4est?partner=rss"
   }
 ]
