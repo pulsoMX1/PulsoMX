@@ -1,45 +1,5 @@
 [
   {
-    "id": 2710,
-    "titulo_original": "Chivas vuelve a la senda del triunfo   ",
-    "titulo": "Chivas vuelve a la senda del triunfo",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F17%2Ffotos%2Fa31n1dep-1.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/deportes/a31n1dep?partner=rss"
-  },
-  {
-    "id": 2711,
-    "titulo_original": "CRT: líneas móviles pueden registrarse antes de lo previsto   ",
-    "titulo": "CRT: líneas móviles pueden registrarse antes de lo previsto",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/economia/019n1eco?partner=rss"
-  },
-  {
-    "id": 2712,
-    "titulo_original": "Lanzan versión ilustrada de Qwerty, aventura entre la ciencia y la magia   ",
-    "titulo": "Lanzan versión ilustrada de Qwerty, aventura entre la ciencia y la magia",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F17%2Ffotos%2Fa05n1cul-1.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/cultura/a05n1cul?partner=rss"
-  },
-  {
-    "id": 2713,
-    "titulo_original": "Se apertrechan padres de familia en Mesones ante el próximo inicio de clases    ",
-    "titulo": "Se apertrechan padres de familia en Mesones ante el próximo inicio de clases",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F17%2Ffotos%2F029n1cap-1.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/capital/029n1cap?partner=rss"
-  },
-  {
     "id": 2714,
     "titulo_original": "Editorial:     Ediciones Era: luto latinoamericano       ",
     "titulo": "Editorial: Ediciones Era: luto latinoamericano",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-20",
     "url_origen": "https://www.jornada.com.mx/2026/08/19/politica/006n2pol?partner=rss"
+  },
+  {
+    "id": 2810,
+    "titulo_original": "Togados retirados exigen pago de indemnizaciones   ",
+    "titulo": "Togados retirados exigen pago de indemnizaciones",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F19%2Ffotos%2F004n3pol-1.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/19/politica/004n3pol?partner=rss"
+  },
+  {
+    "id": 2811,
+    "titulo_original": "Con jonrón de Kirk, Azulejos derrotan 10-5 a Tampa Bay   ",
+    "titulo": "Con jonrón de Kirk, Azulejos derrotan 10-5 a Tampa Bay",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/19/deportes/a31n1dep?partner=rss"
+  },
+  {
+    "id": 2812,
+    "titulo_original": "Crece 20% la demanda de seguros para motocicletas   ",
+    "titulo": "Crece 20% la demanda de seguros para motocicletas",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/19/economia/019n1eco?partner=rss"
+  },
+  {
+    "id": 2813,
+    "titulo_original": "Mural en el “Maracaná de Tepito” honra el pasado prehispánico de la CDMX   ",
+    "titulo": "Mural en el “Maracaná de Tepito” honra el pasado prehispánico de la CDMX",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F19%2Ffotos%2Fa05n2cul-1.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/19/cultura/a05n2cul?partner=rss"
   }
 ]
