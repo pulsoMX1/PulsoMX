@@ -1,45 +1,5 @@
 [
   {
-    "id": 2702,
-    "titulo_original": "Noemí Juárez Pérez*: La Nueva Escuela Mexicana no conoce fronteras   ",
-    "titulo": "Noemí Juárez Pérez*: La Nueva Escuela Mexicana no conoce fronteras",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/politica/012a1pol?partner=rss"
-  },
-  {
-    "id": 2703,
-    "titulo_original": "Congreso de Zacatecas avala nueva forma para asignar plurinominales    ",
-    "titulo": "Congreso de Zacatecas avala nueva forma para asignar plurinominales",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F17%2Ffotos%2F024n1est-1.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/estados/024n1est?partner=rss"
-  },
-  {
-    "id": 2704,
-    "titulo_original": "Las fintech van por su expansión en el mercado mexicano: Klar   ",
-    "titulo": "Las fintech van por su expansión en el mercado mexicano: Klar",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F17%2Ffotos%2F017n1eco-1.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/economia/017n1eco?partner=rss"
-  },
-  {
-    "id": 2705,
-    "titulo_original": "Comienzan en México las cirugías robóticas  de columna vertebral   ",
-    "titulo": "Comienzan en México las cirugías robóticas de columna vertebral",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/politica/013n2pol?partner=rss"
-  },
-  {
     "id": 2706,
     "titulo_original": "Firman convenio para desarrollar fármacos y tecnologías propias     ",
     "titulo": "Firman convenio para desarrollar fármacos y tecnologías propias",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-20",
     "url_origen": "https://www.jornada.com.mx/2026/08/19/cultura/a04n2cul?partner=rss"
+  },
+  {
+    "id": 2802,
+    "titulo_original": "Carlos Fernández-Vega: México SA   ",
+    "titulo": "Carlos Fernández-Vega: México SA",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F19%2Ffotos%2F018o1eco-1.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/19/opinion/018o1eco?partner=rss"
+  },
+  {
+    "id": 2803,
+    "titulo_original": "Trabajan para EU como inspectores de aguacate al menos 100 mexicanos   ",
+    "titulo": "Trabajan para EU como inspectores de aguacate al menos 100 mexicanos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F19%2Ffotos%2F024n1est-1.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/19/estados/024n1est?partner=rss"
+  },
+  {
+    "id": 2804,
+    "titulo_original": "La DEA palomea labor del titular de Seguridad: “es socio de confianza”   ",
+    "titulo": "La DEA palomea labor del titular de Seguridad: “es socio de confianza”",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/19/politica/005n3pol?partner=rss"
+  },
+  {
+    "id": 2805,
+    "titulo_original": "Pierden cuentas de retiro $92,800 millones en julio   ",
+    "titulo": "Pierden cuentas de retiro $92,800 millones en julio",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/19/economia/017n1eco?partner=rss"
   }
 ]
