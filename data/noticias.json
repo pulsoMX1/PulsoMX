@@ -1,45 +1,5 @@
 [
   {
-    "id": 2722,
-    "titulo_original": "Acusado de corrupción asesora a Delcy Rodríguez en área petrolera   ",
-    "titulo": "Acusado de corrupción asesora a Delcy Rodríguez en área petrolera",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/mundo/022n1mun?partner=rss"
-  },
-  {
-    "id": 2723,
-    "titulo_original": "Llama Morena a cerrar filas con la Presidenta   ",
-    "titulo": "Llama Morena a cerrar filas con la Presidenta",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/politica/007n1pol?partner=rss"
-  },
-  {
-    "id": 2724,
-    "titulo_original": "Europa vive los efectos del cambio climático   ",
-    "titulo": "Europa vive los efectos del cambio climático",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F18%2Ffotos%2F022n2mun-1.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/mundo/022n2mun?partner=rss"
-  },
-  {
-    "id": 2725,
-    "titulo_original": "Alertan sobre algunos candidatos a dirección del Hospital Infantil   ",
-    "titulo": "Alertan sobre algunos candidatos a dirección del Hospital Infantil",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/politica/012n1pol?partner=rss"
-  },
-  {
     "id": 2726,
     "titulo_original": "Poseen 57 funcionarios de Trump fortunas de por lo menos 100 mdd   ",
     "titulo": "Poseen 57 funcionarios de Trump fortunas de por lo menos 100 mdd",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-20",
     "url_origen": "https://www.jornada.com.mx/2026/08/20/mundo/022n1mun?partner=rss"
+  },
+  {
+    "id": 2822,
+    "titulo_original": "Aprueban Morena y aliados la renuncia de Mónica Soto al TEPJF   ",
+    "titulo": "Aprueban Morena y aliados la renuncia de Mónica Soto al TEPJF",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/007n1pol?partner=rss"
+  },
+  {
+    "id": 2823,
+    "titulo_original": "Admitirá la UNAM a 50% de aspirantes que presentaron la prueba de control   ",
+    "titulo": "Admitirá la UNAM a 50% de aspirantes que presentaron la prueba de control",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/010n2pol?partner=rss"
+  },
+  {
+    "id": 2824,
+    "titulo_original": "Trump anuncia encuentro con líder norcoreano   ",
+    "titulo": "Trump anuncia encuentro con líder norcoreano",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/mundo/022n2mun?partner=rss"
+  },
+  {
+    "id": 2825,
+    "titulo_original": "Capturan a testigo del secuestro de El Mayo y asesinato de Cuén Ojeda   ",
+    "titulo": "Capturan a testigo del secuestro de El Mayo y asesinato de Cuén Ojeda",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/012n1pol?partner=rss"
   }
 ]
