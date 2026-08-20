@@ -1,45 +1,5 @@
 [
   {
-    "id": 2706,
-    "titulo_original": "Firman convenio para desarrollar fármacos y tecnologías propias     ",
-    "titulo": "Firman convenio para desarrollar fármacos y tecnologías propias",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/politica/010n1pol?partner=rss"
-  },
-  {
-    "id": 2707,
-    "titulo_original": "“Hemos rocanroleado por Latinoamérica; ahora toca una gira en Europa”: El Tri   ",
-    "titulo": "“Hemos rocanroleado por Latinoamérica; ahora toca una gira en Europa”: El Tri",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F17%2Ffotos%2Fa07n1esp-1.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/espectaculos/a07n1esp?partner=rss"
-  },
-  {
-    "id": 2708,
-    "titulo_original": "Acopio y homenaje a Fidel Castro en el Zócalo   ",
-    "titulo": "Acopio y homenaje a Fidel Castro en el Zócalo",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F17%2Ffotos%2F006n2pol-1.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/politica/006n2pol?partner=rss"
-  },
-  {
-    "id": 2709,
-    "titulo_original": "Con licencia, 21 de los 67 senadores de Morena   ",
-    "titulo": "Con licencia, 21 de los 67 senadores de Morena",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F17%2Ffotos%2F004n3pol-1.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/politica/004n3pol?partner=rss"
-  },
-  {
     "id": 2710,
     "titulo_original": "Chivas vuelve a la senda del triunfo   ",
     "titulo": "Chivas vuelve a la senda del triunfo",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-20",
     "url_origen": "https://www.jornada.com.mx/2026/08/19/economia/017n1eco?partner=rss"
+  },
+  {
+    "id": 2806,
+    "titulo_original": "Recomienda especialista no minimizar la tos y atenderla para descartar un mal grave   ",
+    "titulo": "Recomienda especialista no minimizar la tos y atenderla para descartar un mal grave",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/19/politica/013n2pol?partner=rss"
+  },
+  {
+    "id": 2807,
+    "titulo_original": "Al alza, atención en el sistema de salud pública: Presidencia   ",
+    "titulo": "Al alza, atención en el sistema de salud pública: Presidencia",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/19/politica/010n1pol?partner=rss"
+  },
+  {
+    "id": 2808,
+    "titulo_original": "Marina pretende “narrar la feminidad a través de la historia de un danzante”   ",
+    "titulo": "Marina pretende “narrar la feminidad a través de la historia de un danzante”",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F19%2Ffotos%2Fa07n1esp-1.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/19/espectaculos/a07n1esp?partner=rss"
+  },
+  {
+    "id": 2809,
+    "titulo_original": "Nueva ley será insuficiente si autoridades no cumplen: ONG   ",
+    "titulo": "Nueva ley será insuficiente si autoridades no cumplen: ONG",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/19/politica/006n2pol?partner=rss"
   }
 ]
