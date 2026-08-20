@@ -1,45 +1,5 @@
 [
   {
-    "id": 2734,
-    "titulo_original": "Publican ajuste de sueldos de altos funcionarios de la FGR   ",
-    "titulo": "Publican ajuste de sueldos de altos funcionarios de la FGR",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/politica/012n3pol?partner=rss"
-  },
-  {
-    "id": 2735,
-    "titulo_original": "Hacinamiento y precariedad, el día a día de los cortadores de caña en el país   ",
-    "titulo": "Hacinamiento y precariedad, el día a día de los cortadores de caña en el país",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/politica/009n2pol?partner=rss"
-  },
-  {
-    "id": 2736,
-    "titulo_original": "“Un sueño cumplido”, dice Rodri sobre su fichaje con el Barcelona   ",
-    "titulo": "“Un sueño cumplido”, dice Rodri sobre su fichaje con el Barcelona",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F18%2Ffotos%2Fa11n2dep-1.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/deportes/a11n2dep?partner=rss"
-  },
-  {
-    "id": 2737,
-    "titulo_original": "Corte de Rusia niega al partido Yabloko participar en las urnas   ",
-    "titulo": "Corte de Rusia niega al partido Yabloko participar en las urnas",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/mundo/021n2mun?partner=rss"
-  },
-  {
     "id": 2738,
     "titulo_original": "Perdió 1.2 millones de habitantes la zona centro de la CDMX en 30 años   ",
     "titulo": "Perdió 1.2 millones de habitantes la zona centro de la CDMX en 30 años",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-20",
     "url_origen": "https://www.jornada.com.mx/2026/08/20/mundo/019n2mun?partner=rss"
+  },
+  {
+    "id": 2834,
+    "titulo_original": "Embajador de EU acepta: hay que seguir las armas y el dinero de los grupos criminales   ",
+    "titulo": "Embajador de EU acepta: hay que seguir las armas y el dinero de los grupos criminales",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/012n2pol?partner=rss"
+  },
+  {
+    "id": 2835,
+    "titulo_original": "Fuerzas federales aprehenden en Michoacán a 12 miembros del CJNG",
+    "titulo": "Fuerzas federales aprehenden en Michoacán a 12 miembros del CJNG",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F20%2Ffotos%2F023n1est-1.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/estados/023n1est?partner=rss"
+  },
+  {
+    "id": 2836,
+    "titulo_original": "Trabajadores del PJF piden más sueldo por más productividad   ",
+    "titulo": "Trabajadores del PJF piden más sueldo por más productividad",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/012n3pol?partner=rss"
+  },
+  {
+    "id": 2837,
+    "titulo_original": "Ratifican multa de  521 mil pesos al PRI por omisión en 2024   ",
+    "titulo": "Ratifican multa de 521 mil pesos al PRI por omisión en 2024",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/007n3pol?partner=rss"
   }
 ]
