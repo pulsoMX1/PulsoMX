@@ -1,45 +1,5 @@
 [
   {
-    "id": 2698,
-    "titulo_original": "Empresas españolas edificarán planta desaladora en Playas de Rosarito, BC   ",
-    "titulo": "Empresas españolas edificarán planta desaladora en Playas de Rosarito, BC",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/estados/026n2est?partner=rss"
-  },
-  {
-    "id": 2699,
-    "titulo_original": "Donovan Carrillo, plata en Canadá   ",
-    "titulo": "Donovan Carrillo, plata en Canadá",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F17%2Ffotos%2Fa10n3dep-1.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/deportes/a10n3dep?partner=rss"
-  },
-  {
-    "id": 2700,
-    "titulo_original": "Ligero retroceso en  los precios del petróleo   ",
-    "titulo": "Ligero retroceso en los precios del petróleo",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/mundo/021n3mun?partner=rss"
-  },
-  {
-    "id": 2701,
-    "titulo_original": "Carlos Fernández-Vega: México SA   ",
-    "titulo": "Carlos Fernández-Vega: México SA",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F17%2Ffotos%2F018o1eco-1.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/17/opinion/018o1eco?partner=rss"
-  },
-  {
     "id": 2702,
     "titulo_original": "Noemí Juárez Pérez*: La Nueva Escuela Mexicana no conoce fronteras   ",
     "titulo": "Noemí Juárez Pérez*: La Nueva Escuela Mexicana no conoce fronteras",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F19%2Ffotos%2Fa09n3esp-1.jpg",
     "fecha": "2026-08-20",
     "url_origen": "https://www.jornada.com.mx/2026/08/19/espectaculos/a09n3esp?partner=rss"
+  },
+  {
+    "id": 2798,
+    "titulo_original": "Julio Hernández López: Astillero   ",
+    "titulo": "Julio Hernández López: Astillero",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F19%2Ffotos%2F008o1pol-1.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/19/opinion/008o1pol?partner=rss"
+  },
+  {
+    "id": 2799,
+    "titulo_original": "Repunta precio del crudo por tensiones en Medio Oriente   ",
+    "titulo": "Repunta precio del crudo por tensiones en Medio Oriente",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/19/mundo/023n3mun?partner=rss"
+  },
+  {
+    "id": 2800,
+    "titulo_original": "Armada lleva más ayuda humanitaria   ",
+    "titulo": "Armada lleva más ayuda humanitaria",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/19/mundo/021n3mun?partner=rss"
+  },
+  {
+    "id": 2801,
+    "titulo_original": "Era reduce al mínimo sus operaciones   ",
+    "titulo": "Era reduce al mínimo sus operaciones",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/19/cultura/a04n2cul?partner=rss"
   }
 ]
