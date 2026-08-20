@@ -1,45 +1,5 @@
 [
   {
-    "id": 2730,
-    "titulo_original": "Pedro Salmerón Sanginés: Acuarela carioca   ",
-    "titulo": "Pedro Salmerón Sanginés: Acuarela carioca",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/politica/014a1pol?partner=rss"
-  },
-  {
-    "id": 2731,
-    "titulo_original": "Jane Fonda: Mi vida de protesta: 60 años de lucha    ",
-    "titulo": "Jane Fonda: Mi vida de protesta: 60 años de lucha",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/politica/010a1pol?partner=rss"
-  },
-  {
-    "id": 2732,
-    "titulo_original": "Regresan con el Pase Olímpico   ",
-    "titulo": "Regresan con el Pase Olímpico",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F18%2Ffotos%2Fa12n4dep-1.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/deportes/a12n4dep?partner=rss"
-  },
-  {
-    "id": 2733,
-    "titulo_original": "Sheinbaum: hemos entregado 32 nuevos nosocomios en lo que va del sexenio   ",
-    "titulo": "Sheinbaum: hemos entregado 32 nuevos nosocomios en lo que va del sexenio",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/politica/012n2pol?partner=rss"
-  },
-  {
     "id": 2734,
     "titulo_original": "Publican ajuste de sueldos de altos funcionarios de la FGR   ",
     "titulo": "Publican ajuste de sueldos de altos funcionarios de la FGR",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-20",
     "url_origen": "https://www.jornada.com.mx/2026/08/20/mundo/020n1mun?partner=rss"
+  },
+  {
+    "id": 2830,
+    "titulo_original": "El Tesoro de EU mueve los mercados y lleva al dólar por debajo de $17   ",
+    "titulo": "El Tesoro de EU mueve los mercados y lleva al dólar por debajo de $17",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/economia/015n2eco?partner=rss"
+  },
+  {
+    "id": 2831,
+    "titulo_original": "Abraham Nuncio: Las criadas y nosotros   ",
+    "titulo": "Abraham Nuncio: Las criadas y nosotros",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/014a1pol?partner=rss"
+  },
+  {
+    "id": 2832,
+    "titulo_original": "Instan a combatir a las pandillas en Haití   ",
+    "titulo": "Instan a combatir a las pandillas en Haití",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F20%2Ffotos%2F020n5mun-1.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/mundo/020n5mun?partner=rss"
+  },
+  {
+    "id": 2833,
+    "titulo_original": "El publicista usó ejército de trols para destruir al peronismo e imponer a Milei en Argentina   ",
+    "titulo": "El publicista usó ejército de trols para destruir al peronismo e imponer a Milei en Argentina",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-20",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/mundo/019n2mun?partner=rss"
   }
 ]
