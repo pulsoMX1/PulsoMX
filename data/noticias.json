@@ -1,45 +1,5 @@
 [
   {
-    "id": 2762,
-    "titulo_original": "Milei amenaza con someter a “enemigos internos”   ",
-    "titulo": "Milei amenaza con someter a “enemigos internos”",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/mundo/022n3mun?partner=rss"
-  },
-  {
-    "id": 2763,
-    "titulo_original": "Anunciará EU medidas para elevar producción de combustible   ",
-    "titulo": "Anunciará EU medidas para elevar producción de combustible",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/economia/016n2eco?partner=rss"
-  },
-  {
-    "id": 2764,
-    "titulo_original": "Se mantendrá operativo policiaco en la Alameda: Cravioto; sigue protesta de grupos de vendedores   ",
-    "titulo": "Se mantendrá operativo policiaco en la Alameda: Cravioto; sigue protesta de grupos de vendedores",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F18%2Ffotos%2F029n2cap-1.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/capital/029n2cap?partner=rss"
-  },
-  {
-    "id": 2765,
-    "titulo_original": "Defraudan en Atlixco, Puebla, con venta de lotes sin autorización ejidal     ",
-    "titulo": "Defraudan en Atlixco, Puebla, con venta de lotes sin autorización ejidal",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/estados/026n1est?partner=rss"
-  },
-  {
     "id": 2766,
     "titulo_original": "Editorial: Detrás de la derecha, la CIA",
     "titulo": "Editorial: Detrás de la derecha, la CIA",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-21",
     "url_origen": "https://www.jornada.com.mx/2026/08/21/politica/008n1pol?partner=rss"
+  },
+  {
+    "id": 2862,
+    "titulo_original": "Rosa Icela recorre municipios de Michoacán    ",
+    "titulo": "Rosa Icela recorre municipios de Michoacán",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2F024n4est-1.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/estados/024n4est?partner=rss"
+  },
+  {
+    "id": 2863,
+    "titulo_original": "Denuncian golpes e intento de desaparición forzada contra 4 normalistas de Teteles y abogada   ",
+    "titulo": "Denuncian golpes e intento de desaparición forzada contra 4 normalistas de Teteles y abogada",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/estados/025n1est?partner=rss"
+  },
+  {
+    "id": 2864,
+    "titulo_original": "Juez federal niega suspensión provisional al líder del PRI contra alerta migratoria   ",
+    "titulo": "Juez federal niega suspensión provisional al líder del PRI contra alerta migratoria",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/estados/023n2est?partner=rss"
+  },
+  {
+    "id": 2865,
+    "titulo_original": "Construye Israel complejo para ahorcar a palestinos    ",
+    "titulo": "Construye Israel complejo para ahorcar a palestinos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2F022n1mun-1.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/mundo/022n1mun?partner=rss"
   }
 ]
