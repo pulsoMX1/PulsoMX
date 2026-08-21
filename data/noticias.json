@@ -1,45 +1,5 @@
 [
   {
-    "id": 2758,
-    "titulo_original": "Javier Aranda Luna: La magia de Lorca y la sombra del olivo   ",
-    "titulo": "Javier Aranda Luna: La magia de Lorca y la sombra del olivo",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/cultura/a04a1cul?partner=rss"
-  },
-  {
-    "id": 2759,
-    "titulo_original": "Popularidad de Trump, en el nivel más bajo de su segundo mandato   ",
-    "titulo": "Popularidad de Trump, en el nivel más bajo de su segundo mandato",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F18%2Ffotos%2F023n1mun-1.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/mundo/023n1mun?partner=rss"
-  },
-  {
-    "id": 2760,
-    "titulo_original": "Decadencia de valores en el servicio público: Aguilar   ",
-    "titulo": "Decadencia de valores en el servicio público: Aguilar",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F18%2Ffotos%2F006n3pol-1.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/politica/006n3pol?partner=rss"
-  },
-  {
-    "id": 2761,
-    "titulo_original": "Luis Hernández Navarro: La Hidra Cubana   ",
-    "titulo": "Luis Hernández Navarro: La Hidra Cubana",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/politica/013a1pol?partner=rss"
-  },
-  {
     "id": 2762,
     "titulo_original": "Milei amenaza con someter a “enemigos internos”   ",
     "titulo": "Milei amenaza con someter a “enemigos internos”",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F20%2Ffotos%2Fa31n1dep-1.jpg",
     "fecha": "2026-08-21",
     "url_origen": "https://www.jornada.com.mx/2026/08/20/deportes/a31n1dep?partner=rss"
+  },
+  {
+    "id": 2858,
+    "titulo_original": "Editorial: Nicaragua: cuestión de principios",
+    "titulo": "Editorial: Nicaragua: cuestión de principios",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/opinion/002a1edi?partner=rss"
+  },
+  {
+    "id": 2859,
+    "titulo_original": "Anuncia Godoy Ramos nuevas órdenes de arresto   ",
+    "titulo": "Anuncia Godoy Ramos nuevas órdenes de arresto",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/politica/005n2pol?partner=rss"
+  },
+  {
+    "id": 2860,
+    "titulo_original": "Embajada de Rusia recuerda huella del personaje animado Cheburashka en Cuba    ",
+    "titulo": "Embajada de Rusia recuerda huella del personaje animado Cheburashka en Cuba",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/espectaculos/a08n2esp?partner=rss"
+  },
+  {
+    "id": 2861,
+    "titulo_original": "Empresas piden  reducir impuestos en ventas en línea    ",
+    "titulo": "Empresas piden reducir impuestos en ventas en línea",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/politica/008n1pol?partner=rss"
   }
 ]
