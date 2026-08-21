@@ -1,45 +1,5 @@
 [
   {
-    "id": 2782,
-    "titulo_original": "Murió Frank Beard, baterista de ZZ Top    ",
-    "titulo": "Murió Frank Beard, baterista de ZZ Top",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F19%2Ffotos%2Fa09n2esp-1.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/espectaculos/a09n2esp?partner=rss"
-  },
-  {
-    "id": 2783,
-    "titulo_original": "Asesor de Paz y Milei, acusado de mandar asesinar a su ex pareja   ",
-    "titulo": "Asesor de Paz y Milei, acusado de mandar asesinar a su ex pareja",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F19%2Ffotos%2F020n1mun-1.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/mundo/020n1mun?partner=rss"
-  },
-  {
-    "id": 2784,
-    "titulo_original": "José Steinsleger: Ezra Shabot y Enrique Krauze, compadres del mal absoluto   ",
-    "titulo": "José Steinsleger: Ezra Shabot y Enrique Krauze, compadres del mal absoluto",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/politica/014a1pol?partner=rss"
-  },
-  {
-    "id": 2785,
-    "titulo_original": "Juan Becerra Acosta: Regular las pantallas, recuperar el aula   ",
-    "titulo": "Juan Becerra Acosta: Regular las pantallas, recuperar el aula",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/politica/015a1pol?partner=rss"
-  },
-  {
     "id": 2786,
     "titulo_original": "Enrique Galván Ochoa: Dinero   ",
     "titulo": "Enrique Galván Ochoa: Dinero",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2Fa11n2dep-1.jpg",
     "fecha": "2026-08-21",
     "url_origen": "https://www.jornada.com.mx/2026/08/21/deportes/a11n2dep?partner=rss"
+  },
+  {
+    "id": 2882,
+    "titulo_original": "Sube precio del petróleo por quinta jornada consecutiva   ",
+    "titulo": "Sube precio del petróleo por quinta jornada consecutiva",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/mundo/021n2mun?partner=rss"
+  },
+  {
+    "id": 2883,
+    "titulo_original": "Vecinos alistan frente de oposición ante impactos  de Torre Reforma Colón   ",
+    "titulo": "Vecinos alistan frente de oposición ante impactos de Torre Reforma Colón",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/capital/027n1cap?partner=rss"
+  },
+  {
+    "id": 2884,
+    "titulo_original": "BdeM considera mantener tasa mientras inflación se modera   ",
+    "titulo": "BdeM considera mantener tasa mientras inflación se modera",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/economia/017n2eco?partner=rss"
+  },
+  {
+    "id": 2885,
+    "titulo_original": "Sanciona ahora EU al Instituto Cubano de Amistad con los Pueblos   ",
+    "titulo": "Sanciona ahora EU al Instituto Cubano de Amistad con los Pueblos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/mundo/019n1mun?partner=rss"
   }
 ]
