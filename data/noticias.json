@@ -1,45 +1,5 @@
 [
   {
-    "id": 2742,
-    "titulo_original": "Con vistosos tapetes de aserrín honran a Santa Clara de Asís, en Ecatepec   ",
-    "titulo": "Con vistosos tapetes de aserrín honran a Santa Clara de Asís, en Ecatepec",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F18%2Ffotos%2F026n2est-1.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/estados/026n2est?partner=rss"
-  },
-  {
-    "id": 2743,
-    "titulo_original": "Se avecinan tiempos muy duros para Colombia: De la Espriella   ",
-    "titulo": "Se avecinan tiempos muy duros para Colombia: De la Espriella",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/mundo/023n3mun?partner=rss"
-  },
-  {
-    "id": 2744,
-    "titulo_original": "Arremete gobierno de Jara de nuevo contra la prensa; un mes duró la tregua     ",
-    "titulo": "Arremete gobierno de Jara de nuevo contra la prensa; un mes duró la tregua",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F18%2Ffotos%2F024n1est-1.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/estados/024n1est?partner=rss"
-  },
-  {
-    "id": 2745,
-    "titulo_original": "Renuncia Mónica Soto al TEPJF; su ciclo cerraba en 2028, tras la reforma   ",
-    "titulo": "Renuncia Mónica Soto al TEPJF; su ciclo cerraba en 2028, tras la reforma",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/politica/005n3pol?partner=rss"
-  },
-  {
     "id": 2746,
     "titulo_original": "Cayó el consumo 0.4% en julio, reporta BBVA   ",
     "titulo": "Cayó el consumo 0.4% en julio, reporta BBVA",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-21",
     "url_origen": "https://www.jornada.com.mx/2026/08/20/mundo/021n2mun?partner=rss"
+  },
+  {
+    "id": 2842,
+    "titulo_original": "En marcha, plan de reforestación; plantar 200 mil árboles al año, la meta: Brugada   ",
+    "titulo": "En marcha, plan de reforestación; plantar 200 mil árboles al año, la meta: Brugada",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F20%2Ffotos%2F027n1cap-1.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/capital/027n1cap?partner=rss"
+  },
+  {
+    "id": 2843,
+    "titulo_original": "Hidalgo: invertirán $10 mil millones en parques industriales   ",
+    "titulo": "Hidalgo: invertirán $10 mil millones en parques industriales",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/economia/017n2eco?partner=rss"
+  },
+  {
+    "id": 2844,
+    "titulo_original": "Indagan también por enriquecimiento ilícito a asesor del presidente boliviano   ",
+    "titulo": "Indagan también por enriquecimiento ilícito a asesor del presidente boliviano",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F20%2Ffotos%2F019n1mun-1.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/mundo/019n1mun?partner=rss"
+  },
+  {
+    "id": 2845,
+    "titulo_original": "Marcos Roitman Rosenmann: ¿Qué hacer con los migrantes? Depende    ",
+    "titulo": "Marcos Roitman Rosenmann: ¿Qué hacer con los migrantes? Depende",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/013a2pol?partner=rss"
   }
 ]
