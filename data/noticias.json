@@ -1,45 +1,5 @@
 [
   {
-    "id": 2738,
-    "titulo_original": "Perdió 1.2 millones de habitantes la zona centro de la CDMX en 30 años   ",
-    "titulo": "Perdió 1.2 millones de habitantes la zona centro de la CDMX en 30 años",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F18%2Ffotos%2F027n1cap-1.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/capital/027n1cap?partner=rss"
-  },
-  {
-    "id": 2739,
-    "titulo_original": "Ganancias de la banca de desarrollo repuntaron en el primer semestre   ",
-    "titulo": "Ganancias de la banca de desarrollo repuntaron en el primer semestre",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/economia/017n2eco?partner=rss"
-  },
-  {
-    "id": 2740,
-    "titulo_original": "Hoy vence emplazamiento a huelga en VW   ",
-    "titulo": "Hoy vence emplazamiento a huelga en VW",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/politica/009n3pol?partner=rss"
-  },
-  {
-    "id": 2741,
-    "titulo_original": "Magdalena Gómez: Colocar la mirada en el pueblo rarámuri   ",
-    "titulo": "Magdalena Gómez: Colocar la mirada en el pueblo rarámuri",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-18",
-    "url_origen": "https://www.jornada.com.mx/2026/08/18/politica/013a2pol?partner=rss"
-  },
-  {
     "id": 2742,
     "titulo_original": "Con vistosos tapetes de aserrín honran a Santa Clara de Asís, en Ecatepec   ",
     "titulo": "Con vistosos tapetes de aserrín honran a Santa Clara de Asís, en Ecatepec",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-20",
     "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/007n3pol?partner=rss"
+  },
+  {
+    "id": 2838,
+    "titulo_original": "Sancionan y multan de nuevo a firma por violar ley de adquisiciones   ",
+    "titulo": "Sancionan y multan de nuevo a firma por violar ley de adquisiciones",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/009n2pol?partner=rss"
+  },
+  {
+    "id": 2839,
+    "titulo_original": "Llama México ante la OEA a no profundizar el aislamiento de Nicaragua   ",
+    "titulo": "Llama México ante la OEA a no profundizar el aislamiento de Nicaragua",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/mundo/020n4mun?partner=rss"
+  },
+  {
+    "id": 2840,
+    "titulo_original": "Liga Mx y FMF deben poner un alto a los creadores de contenido misógino   ",
+    "titulo": "Liga Mx y FMF deben poner un alto a los creadores de contenido misógino",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F20%2Ffotos%2Fa11n2dep-1.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/deportes/a11n2dep?partner=rss"
+  },
+  {
+    "id": 2841,
+    "titulo_original": "Persisten incrementos en el precio del crudo    ",
+    "titulo": "Persisten incrementos en el precio del crudo",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-21",
+    "url_origen": "https://www.jornada.com.mx/2026/08/20/mundo/021n2mun?partner=rss"
   }
 ]
