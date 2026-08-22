@@ -1,45 +1,5 @@
 [
   {
-    "id": 2822,
-    "titulo_original": "Aprueban Morena y aliados la renuncia de Mónica Soto al TEPJF   ",
-    "titulo": "Aprueban Morena y aliados la renuncia de Mónica Soto al TEPJF",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/007n1pol?partner=rss"
-  },
-  {
-    "id": 2823,
-    "titulo_original": "Admitirá la UNAM a 50% de aspirantes que presentaron la prueba de control   ",
-    "titulo": "Admitirá la UNAM a 50% de aspirantes que presentaron la prueba de control",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/010n2pol?partner=rss"
-  },
-  {
-    "id": 2824,
-    "titulo_original": "Trump anuncia encuentro con líder norcoreano   ",
-    "titulo": "Trump anuncia encuentro con líder norcoreano",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/mundo/022n2mun?partner=rss"
-  },
-  {
-    "id": 2825,
-    "titulo_original": "Capturan a testigo del secuestro de El Mayo y asesinato de Cuén Ojeda   ",
-    "titulo": "Capturan a testigo del secuestro de El Mayo y asesinato de Cuén Ojeda",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/012n1pol?partner=rss"
-  },
-  {
     "id": 2826,
     "titulo_original": "Se unirá el fisco estadunidense a la persecución contra migrantes   ",
     "titulo": "Se unirá el fisco estadunidense a la persecución contra migrantes",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-22",
     "url_origen": "https://www.jornada.com.mx/2026/08/22/capital/026n3cap?partner=rss"
+  },
+  {
+    "id": 2922,
+    "titulo_original": "China: cadena perpetua al defraudador de Evergrande   ",
+    "titulo": "China: cadena perpetua al defraudador de Evergrande",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2F015n2eco-1.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/economia/015n2eco?partner=rss"
+  },
+  {
+    "id": 2923,
+    "titulo_original": "Irán: es mejor terminar la guerra ahora que estamos en posición de fuerza frente a EU   ",
+    "titulo": "Irán: es mejor terminar la guerra ahora que estamos en posición de fuerza frente a EU",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/mundo/018n1mun?partner=rss"
+  },
+  {
+    "id": 2924,
+    "titulo_original": "Fabrizio Mejía Madrid: Lumpen política   ",
+    "titulo": "Fabrizio Mejía Madrid: Lumpen política",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/politica/010a1pol?partner=rss"
+  },
+  {
+    "id": 2925,
+    "titulo_original": "Irrumpen en Ajuchitlán del Progreso integrantes de La familia michoacana   ",
+    "titulo": "Irrumpen en Ajuchitlán del Progreso integrantes de La familia michoacana",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/estados/022n1est?partner=rss"
   }
 ]
