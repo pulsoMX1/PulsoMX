@@ -1,45 +1,5 @@
 [
   {
-    "id": 2810,
-    "titulo_original": "Togados retirados exigen pago de indemnizaciones   ",
-    "titulo": "Togados retirados exigen pago de indemnizaciones",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F19%2Ffotos%2F004n3pol-1.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/politica/004n3pol?partner=rss"
-  },
-  {
-    "id": 2811,
-    "titulo_original": "Con jonrón de Kirk, Azulejos derrotan 10-5 a Tampa Bay   ",
-    "titulo": "Con jonrón de Kirk, Azulejos derrotan 10-5 a Tampa Bay",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/deportes/a31n1dep?partner=rss"
-  },
-  {
-    "id": 2812,
-    "titulo_original": "Crece 20% la demanda de seguros para motocicletas   ",
-    "titulo": "Crece 20% la demanda de seguros para motocicletas",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/economia/019n1eco?partner=rss"
-  },
-  {
-    "id": 2813,
-    "titulo_original": "Mural en el “Maracaná de Tepito” honra el pasado prehispánico de la CDMX   ",
-    "titulo": "Mural en el “Maracaná de Tepito” honra el pasado prehispánico de la CDMX",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F19%2Ffotos%2Fa05n2cul-1.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/cultura/a05n2cul?partner=rss"
-  },
-  {
     "id": 2814,
     "titulo_original": "Cae la Corte en contradicción sobre la consulta a personas con discapacidad   ",
     "titulo": "Cae la Corte en contradicción sobre la consulta a personas con discapacidad",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-22",
     "url_origen": "https://www.jornada.com.mx/2026/08/21/politica/013a1pol?partner=rss"
+  },
+  {
+    "id": 2910,
+    "titulo_original": "Editorial: Arrestar a Netanyahu, deber internacional",
+    "titulo": "Editorial: Arrestar a Netanyahu, deber internacional",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/opinion/002a1edi?partner=rss"
+  },
+  {
+    "id": 2911,
+    "titulo_original": "Artistas de Marvel respaldan campaña para liberar a líder palestino Marwan Barghouti   ",
+    "titulo": "Artistas de Marvel respaldan campaña para liberar a líder palestino Marwan Barghouti",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2Fa07n2esp-1.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/espectaculos/a07n2esp?partner=rss"
+  },
+  {
+    "id": 2912,
+    "titulo_original": "Jugadoras  se enfocan en Mundial Sub-20   ",
+    "titulo": "Jugadoras se enfocan en Mundial Sub-20",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/deportes/a09n2dep?partner=rss"
+  },
+  {
+    "id": 2913,
+    "titulo_original": "Sheinbaum se ausentó por “gripe”   ",
+    "titulo": "Sheinbaum se ausentó por “gripe”",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/politica/005n2pol?partner=rss"
   }
 ]
