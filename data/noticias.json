@@ -1,45 +1,5 @@
 [
   {
-    "id": 2806,
-    "titulo_original": "Recomienda especialista no minimizar la tos y atenderla para descartar un mal grave   ",
-    "titulo": "Recomienda especialista no minimizar la tos y atenderla para descartar un mal grave",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/politica/013n2pol?partner=rss"
-  },
-  {
-    "id": 2807,
-    "titulo_original": "Al alza, atención en el sistema de salud pública: Presidencia   ",
-    "titulo": "Al alza, atención en el sistema de salud pública: Presidencia",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/politica/010n1pol?partner=rss"
-  },
-  {
-    "id": 2808,
-    "titulo_original": "Marina pretende “narrar la feminidad a través de la historia de un danzante”   ",
-    "titulo": "Marina pretende “narrar la feminidad a través de la historia de un danzante”",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F19%2Ffotos%2Fa07n1esp-1.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/espectaculos/a07n1esp?partner=rss"
-  },
-  {
-    "id": 2809,
-    "titulo_original": "Nueva ley será insuficiente si autoridades no cumplen: ONG   ",
-    "titulo": "Nueva ley será insuficiente si autoridades no cumplen: ONG",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/politica/006n2pol?partner=rss"
-  },
-  {
     "id": 2810,
     "titulo_original": "Togados retirados exigen pago de indemnizaciones   ",
     "titulo": "Togados retirados exigen pago de indemnizaciones",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-22",
     "url_origen": "https://www.jornada.com.mx/2026/08/21/cultura/a04a1cul?partner=rss"
+  },
+  {
+    "id": 2906,
+    "titulo_original": "Carlos Fernández-Vega: México SA   ",
+    "titulo": "Carlos Fernández-Vega: México SA",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2F018o1eco-1.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/opinion/018o1eco?partner=rss"
+  },
+  {
+    "id": 2907,
+    "titulo_original": "Nuevo modelo de bachillerato no debe sacrificar subsistemas existentes, señalan académicos   ",
+    "titulo": "Nuevo modelo de bachillerato no debe sacrificar subsistemas existentes, señalan académicos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/politica/010n3pol?partner=rss"
+  },
+  {
+    "id": 2908,
+    "titulo_original": "Pactan pase automático a Tecnológico Nacional de México y Cecytem    ",
+    "titulo": "Pactan pase automático a Tecnológico Nacional de México y Cecytem",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/politica/010n4pol?partner=rss"
+  },
+  {
+    "id": 2909,
+    "titulo_original": "Pedro Miguel: El tiempo corto de las derechas   ",
+    "titulo": "Pedro Miguel: El tiempo corto de las derechas",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/politica/013a1pol?partner=rss"
   }
 ]
