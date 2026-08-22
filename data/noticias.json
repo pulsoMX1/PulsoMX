@@ -1,45 +1,5 @@
 [
   {
-    "id": 2794,
-    "titulo_original": "Bloquean banca comercial y otros intermediarios el crédito público   ",
-    "titulo": "Bloquean banca comercial y otros intermediarios el crédito público",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/economia/017n2eco?partner=rss"
-  },
-  {
-    "id": 2795,
-    "titulo_original": "La petroquímica Braskem Idesa se acoge a ley de quiebras en EU   ",
-    "titulo": "La petroquímica Braskem Idesa se acoge a ley de quiebras en EU",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/economia/019n3eco?partner=rss"
-  },
-  {
-    "id": 2796,
-    "titulo_original": "Hoteleros de Cancún no invertirán en remoción de sargazo en altamar    ",
-    "titulo": "Hoteleros de Cancún no invertirán en remoción de sargazo en altamar",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/estados/026n2est?partner=rss"
-  },
-  {
-    "id": 2797,
-    "titulo_original": "Madonna superó a Taylor Swift en nominaciones de los premios MTV   ",
-    "titulo": "Madonna superó a Taylor Swift en nominaciones de los premios MTV",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F19%2Ffotos%2Fa09n3esp-1.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/espectaculos/a09n3esp?partner=rss"
-  },
-  {
     "id": 2798,
     "titulo_original": "Julio Hernández López: Astillero   ",
     "titulo": "Julio Hernández López: Astillero",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-22",
     "url_origen": "https://www.jornada.com.mx/2026/08/21/economia/017n1eco?partner=rss"
+  },
+  {
+    "id": 2894,
+    "titulo_original": "Con calificación perfecta, Javier Guerrero logra su ingreso al CCH Oriente   ",
+    "titulo": "Con calificación perfecta, Javier Guerrero logra su ingreso al CCH Oriente",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2F010n1pol-1.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/politica/010n1pol?partner=rss"
+  },
+  {
+    "id": 2895,
+    "titulo_original": "La Cineteca Nacional exhibe Homenaje a Elsa Aguirre   ",
+    "titulo": "La Cineteca Nacional exhibe Homenaje a Elsa Aguirre",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2Fa07n1esp-1.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/espectaculos/a07n1esp?partner=rss"
+  },
+  {
+    "id": 2896,
+    "titulo_original": "Lucran con locales comerciales del Metro; cobran hasta 100 mil pesos   ",
+    "titulo": "Lucran con locales comerciales del Metro; cobran hasta 100 mil pesos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/capital/026n1cap?partner=rss"
+  },
+  {
+    "id": 2897,
+    "titulo_original": "La SCJN pone un alto a las factureras bajo investigación   ",
+    "titulo": "La SCJN pone un alto a las factureras bajo investigación",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/politica/006n2pol?partner=rss"
   }
 ]
