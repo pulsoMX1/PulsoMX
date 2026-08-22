@@ -1,45 +1,5 @@
 [
   {
-    "id": 2798,
-    "titulo_original": "Julio Hernández López: Astillero   ",
-    "titulo": "Julio Hernández López: Astillero",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F19%2Ffotos%2F008o1pol-1.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/opinion/008o1pol?partner=rss"
-  },
-  {
-    "id": 2799,
-    "titulo_original": "Repunta precio del crudo por tensiones en Medio Oriente   ",
-    "titulo": "Repunta precio del crudo por tensiones en Medio Oriente",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/mundo/023n3mun?partner=rss"
-  },
-  {
-    "id": 2800,
-    "titulo_original": "Armada lleva más ayuda humanitaria   ",
-    "titulo": "Armada lleva más ayuda humanitaria",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/mundo/021n3mun?partner=rss"
-  },
-  {
-    "id": 2801,
-    "titulo_original": "Era reduce al mínimo sus operaciones   ",
-    "titulo": "Era reduce al mínimo sus operaciones",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/cultura/a04n2cul?partner=rss"
-  },
-  {
     "id": 2802,
     "titulo_original": "Carlos Fernández-Vega: México SA   ",
     "titulo": "Carlos Fernández-Vega: México SA",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-22",
     "url_origen": "https://www.jornada.com.mx/2026/08/21/politica/006n2pol?partner=rss"
+  },
+  {
+    "id": 2898,
+    "titulo_original": "Ante el caso de Nicaragua, la Constitución apoya la autodeterminación de los pueblos: la Presidenta   ",
+    "titulo": "Ante el caso de Nicaragua, la Constitución apoya la autodeterminación de los pueblos: la Presidenta",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/politica/004n3pol?partner=rss"
+  },
+  {
+    "id": 2899,
+    "titulo_original": "Pericos derrotan 4-1 a Diablos Rojos   ",
+    "titulo": "Pericos derrotan 4-1 a Diablos Rojos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2Fa31n1dep-1.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/deportes/a31n1dep?partner=rss"
+  },
+  {
+    "id": 2900,
+    "titulo_original": "Murió la soprano Ileana Cotrubas   ",
+    "titulo": "Murió la soprano Ileana Cotrubas",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2Fa05n2cul-1.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/cultura/a05n2cul?partner=rss"
+  },
+  {
+    "id": 2901,
+    "titulo_original": "La captura aborda el tema de la policía incorruptible   ",
+    "titulo": "La captura aborda el tema de la policía incorruptible",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2Fa09n1esp-1.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/espectaculos/a09n1esp?partner=rss"
   }
 ]
