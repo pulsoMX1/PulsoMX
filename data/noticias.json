@@ -1,45 +1,5 @@
 [
   {
-    "id": 2830,
-    "titulo_original": "El Tesoro de EU mueve los mercados y lleva al dólar por debajo de $17   ",
-    "titulo": "El Tesoro de EU mueve los mercados y lleva al dólar por debajo de $17",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/economia/015n2eco?partner=rss"
-  },
-  {
-    "id": 2831,
-    "titulo_original": "Abraham Nuncio: Las criadas y nosotros   ",
-    "titulo": "Abraham Nuncio: Las criadas y nosotros",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/014a1pol?partner=rss"
-  },
-  {
-    "id": 2832,
-    "titulo_original": "Instan a combatir a las pandillas en Haití   ",
-    "titulo": "Instan a combatir a las pandillas en Haití",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F20%2Ffotos%2F020n5mun-1.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/mundo/020n5mun?partner=rss"
-  },
-  {
-    "id": 2833,
-    "titulo_original": "El publicista usó ejército de trols para destruir al peronismo e imponer a Milei en Argentina   ",
-    "titulo": "El publicista usó ejército de trols para destruir al peronismo e imponer a Milei en Argentina",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/mundo/019n2mun?partner=rss"
-  },
-  {
     "id": 2834,
     "titulo_original": "Embajador de EU acepta: hay que seguir las armas y el dinero de los grupos criminales   ",
     "titulo": "Embajador de EU acepta: hay que seguir las armas y el dinero de los grupos criminales",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-22",
     "url_origen": "https://www.jornada.com.mx/2026/08/22/capital/023n1cap?partner=rss"
+  },
+  {
+    "id": 2930,
+    "titulo_original": "Comienza EU expulsión de haitianos tras retirar estatus de protección    ",
+    "titulo": "Comienza EU expulsión de haitianos tras retirar estatus de protección",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/mundo/017n3mun?partner=rss"
+  },
+  {
+    "id": 2931,
+    "titulo_original": "El gobierno busca duplicar área de siembra para el amaranto   ",
+    "titulo": "El gobierno busca duplicar área de siembra para el amaranto",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2F025n1cap-1.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/capital/025n1cap?partner=rss"
+  },
+  {
+    "id": 2932,
+    "titulo_original": "Arrestan a 2 mexicanos en Sudáfrica  con droga; suman 14 en dos años    ",
+    "titulo": "Arrestan a 2 mexicanos en Sudáfrica con droga; suman 14 en dos años",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/politica/007n3pol?partner=rss"
+  },
+  {
+    "id": 2933,
+    "titulo_original": "Usan inteligencia artificial 60% de profesores universitarios: encuesta    ",
+    "titulo": "Usan inteligencia artificial 60% de profesores universitarios: encuesta",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/politica/009n2pol?partner=rss"
   }
 ]
