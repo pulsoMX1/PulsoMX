@@ -1,45 +1,5 @@
 [
   {
-    "id": 2802,
-    "titulo_original": "Carlos Fernández-Vega: México SA   ",
-    "titulo": "Carlos Fernández-Vega: México SA",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F19%2Ffotos%2F018o1eco-1.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/opinion/018o1eco?partner=rss"
-  },
-  {
-    "id": 2803,
-    "titulo_original": "Trabajan para EU como inspectores de aguacate al menos 100 mexicanos   ",
-    "titulo": "Trabajan para EU como inspectores de aguacate al menos 100 mexicanos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F19%2Ffotos%2F024n1est-1.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/estados/024n1est?partner=rss"
-  },
-  {
-    "id": 2804,
-    "titulo_original": "La DEA palomea labor del titular de Seguridad: “es socio de confianza”   ",
-    "titulo": "La DEA palomea labor del titular de Seguridad: “es socio de confianza”",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/politica/005n3pol?partner=rss"
-  },
-  {
-    "id": 2805,
-    "titulo_original": "Pierden cuentas de retiro $92,800 millones en julio   ",
-    "titulo": "Pierden cuentas de retiro $92,800 millones en julio",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/economia/017n1eco?partner=rss"
-  },
-  {
     "id": 2806,
     "titulo_original": "Recomienda especialista no minimizar la tos y atenderla para descartar un mal grave   ",
     "titulo": "Recomienda especialista no minimizar la tos y atenderla para descartar un mal grave",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2Fa09n1esp-1.jpg",
     "fecha": "2026-08-22",
     "url_origen": "https://www.jornada.com.mx/2026/08/21/espectaculos/a09n1esp?partner=rss"
+  },
+  {
+    "id": 2902,
+    "titulo_original": "Julio Hernández López: Astillero   ",
+    "titulo": "Julio Hernández López: Astillero",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2F008o1pol-1.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/opinion/008o1pol?partner=rss"
+  },
+  {
+    "id": 2903,
+    "titulo_original": "Asuntos familiares, obra sobre la revictimización   ",
+    "titulo": "Asuntos familiares, obra sobre la revictimización",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2Fa05n1cul-1.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/cultura/a05n1cul?partner=rss"
+  },
+  {
+    "id": 2904,
+    "titulo_original": "Trampas en el asfalto: el viacrucis interminable de los baches en la CDMX   ",
+    "titulo": "Trampas en el asfalto: el viacrucis interminable de los baches en la CDMX",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2F029n1cap-1.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/capital/029n1cap?partner=rss"
+  },
+  {
+    "id": 2905,
+    "titulo_original": "José Cueli: Las novelas ejemplares de Cervantes   ",
+    "titulo": "José Cueli: Las novelas ejemplares de Cervantes",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/cultura/a04a1cul?partner=rss"
   }
 ]
