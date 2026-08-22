@@ -1,45 +1,5 @@
 [
   {
-    "id": 2786,
-    "titulo_original": "Enrique Galván Ochoa: Dinero   ",
-    "titulo": "Enrique Galván Ochoa: Dinero",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F19%2Ffotos%2F006o1eco-1.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/opinion/006o1eco?partner=rss"
-  },
-  {
-    "id": 2787,
-    "titulo_original": "México y Guatemala pactan el Plan Binacional 2027   ",
-    "titulo": "México y Guatemala pactan el Plan Binacional 2027",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/politica/012n2pol?partner=rss"
-  },
-  {
-    "id": 2788,
-    "titulo_original": "Aun sin tener causa grave, hoy Morena aceptará la renuncia de Mónica Soto    ",
-    "titulo": "Aun sin tener causa grave, hoy Morena aceptará la renuncia de Mónica Soto",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/politica/007n3pol?partner=rss"
-  },
-  {
-    "id": 2789,
-    "titulo_original": "Universidades privadas buscan atraer a futuros alumnos de licenciatura   ",
-    "titulo": "Universidades privadas buscan atraer a futuros alumnos de licenciatura",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-19",
-    "url_origen": "https://www.jornada.com.mx/2026/08/19/politica/009n2pol?partner=rss"
-  },
-  {
     "id": 2790,
     "titulo_original": "Francia se disculpa tras pirateo de datos   ",
     "titulo": "Francia se disculpa tras pirateo de datos",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-21",
     "url_origen": "https://www.jornada.com.mx/2026/08/21/mundo/019n1mun?partner=rss"
+  },
+  {
+    "id": 2886,
+    "titulo_original": "Gabriela Rodríguez R.*: El envejecimiento y los cuidados de largo plazo   ",
+    "titulo": "Gabriela Rodríguez R.*: El envejecimiento y los cuidados de largo plazo",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/politica/013a2pol?partner=rss"
+  },
+  {
+    "id": 2887,
+    "titulo_original": "Canal de Panamá reducirá tránsito de buques por El Niño   ",
+    "titulo": "Canal de Panamá reducirá tránsito de buques por El Niño",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/mundo/021n5mun?partner=rss"
+  },
+  {
+    "id": 2888,
+    "titulo_original": "Sufren 6 millones en Somalia inseguridad alimentaria: PMA   ",
+    "titulo": "Sufren 6 millones en Somalia inseguridad alimentaria: PMA",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/mundo/021n3mun?partner=rss"
+  },
+  {
+    "id": 2889,
+    "titulo_original": "Arte europeo llega a Japón   ",
+    "titulo": "Arte europeo llega a Japón",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2Fa04n2cul-1.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/21/cultura/a04n2cul?partner=rss"
   }
 ]
