@@ -1,45 +1,5 @@
 [
   {
-    "id": 2818,
-    "titulo_original": "Personal aéreo tiene mayor riesgo de morir de cáncer por radiación   ",
-    "titulo": "Personal aéreo tiene mayor riesgo de morir de cáncer por radiación",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/ciencias/a06n2cie?partner=rss"
-  },
-  {
-    "id": 2819,
-    "titulo_original": "Gobierno de Nahle y Grupo Porres logran acuerdo para no cerrar ingenio   ",
-    "titulo": "Gobierno de Nahle y Grupo Porres logran acuerdo para no cerrar ingenio",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/estados/025n1est?partner=rss"
-  },
-  {
-    "id": 2820,
-    "titulo_original": "Despliegan operativo para detener al edil  de Paraíso, Tabasco; catean su domicilio   ",
-    "titulo": "Despliegan operativo para detener al edil de Paraíso, Tabasco; catean su domicilio",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/estados/023n2est?partner=rss"
-  },
-  {
-    "id": 2821,
-    "titulo_original": "Pese a protestas de la oposición, ratifican en Ucrania a 2 ministros    ",
-    "titulo": "Pese a protestas de la oposición, ratifican en Ucrania a 2 ministros",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/mundo/022n1mun?partner=rss"
-  },
-  {
     "id": 2822,
     "titulo_original": "Aprueban Morena y aliados la renuncia de Mónica Soto al TEPJF   ",
     "titulo": "Aprueban Morena y aliados la renuncia de Mónica Soto al TEPJF",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-22",
     "url_origen": "https://www.jornada.com.mx/2026/08/22/politica/005n4pol?partner=rss"
+  },
+  {
+    "id": 2918,
+    "titulo_original": "Sinaloa prepara próximo ciclo agrícola para exportar sorgo   ",
+    "titulo": "Sinaloa prepara próximo ciclo agrícola para exportar sorgo",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/estados/021n2est?partner=rss"
+  },
+  {
+    "id": 2919,
+    "titulo_original": "Silvia Pérez Cruz explora el amor, el deseo y la migración en Oral_Abisal   ",
+    "titulo": "Silvia Pérez Cruz explora el amor, el deseo y la migración en Oral_Abisal",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2Fa06n1esp-1.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/espectaculos/a06n1esp?partner=rss"
+  },
+  {
+    "id": 2920,
+    "titulo_original": "El triunfo del placer ante la nada   ",
+    "titulo": "El triunfo del placer ante la nada",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2Fa12n1dis-1.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/cultura/a12n1dis?partner=rss"
+  },
+  {
+    "id": 2921,
+    "titulo_original": "Elección judicial, ejemplo para el mundo: Brugada   ",
+    "titulo": "Elección judicial, ejemplo para el mundo: Brugada",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-22",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/capital/026n3cap?partner=rss"
   }
 ]
