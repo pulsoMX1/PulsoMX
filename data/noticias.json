@@ -1,45 +1,5 @@
 [
   {
-    "id": 2846,
-    "titulo_original": "Sin daño y accesibles, sólo 3% de las tierras agrícolas en la franja de Gaza, alerta la FAO   ",
-    "titulo": "Sin daño y accesibles, sólo 3% de las tierras agrícolas en la franja de Gaza, alerta la FAO",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F20%2Ffotos%2F021n3mun-1.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/mundo/021n3mun?partner=rss"
-  },
-  {
-    "id": 2847,
-    "titulo_original": "Convocan a cursos de redacción sin dolor   ",
-    "titulo": "Convocan a cursos de redacción sin dolor",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/cultura/a04n2cul?partner=rss"
-  },
-  {
-    "id": 2848,
-    "titulo_original": "Federación: se han entregado en el país 35,500 viviendas del Bienestar   ",
-    "titulo": "Federación: se han entregado en el país 35,500 viviendas del Bienestar",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/estados/024n1est?partner=rss"
-  },
-  {
-    "id": 2849,
-    "titulo_original": "Exportación de fresas a EU, negocio de mil mdd para México   ",
-    "titulo": "Exportación de fresas a EU, negocio de mil mdd para México",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/economia/016n3eco?partner=rss"
-  },
-  {
     "id": 2850,
     "titulo_original": "Deuda de EU supera 40 bdd; equivale a 160% de su PIB   ",
     "titulo": "Deuda de EU supera 40 bdd; equivale a 160% de su PIB",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-23",
     "url_origen": "https://www.jornada.com.mx/2026/08/22/mundo/017n1mun?partner=rss"
+  },
+  {
+    "id": 2946,
+    "titulo_original": "Guatemala, destino de 2 mil 400 mexicanos expulsados por Trump   ",
+    "titulo": "Guatemala, destino de 2 mil 400 mexicanos expulsados por Trump",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/politica/005n3pol?partner=rss"
+  },
+  {
+    "id": 2947,
+    "titulo_original": "Denuncian anomalías en los 11 penales y el tutelar de Guanajuato   ",
+    "titulo": "Denuncian anomalías en los 11 penales y el tutelar de Guanajuato",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2F020n1est-1.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/estados/020n1est?partner=rss"
+  },
+  {
+    "id": 2948,
+    "titulo_original": "SG termina contrato con proveedor del mecanismo de protección tras quejas   ",
+    "titulo": "SG termina contrato con proveedor del mecanismo de protección tras quejas",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/politica/010n1pol?partner=rss"
+  },
+  {
+    "id": 2949,
+    "titulo_original": "Utilizan andador como depósito de escombro en Guerrero   ",
+    "titulo": "Utilizan andador como depósito de escombro en Guerrero",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2F022n5est-1.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/estados/022n5est?partner=rss"
   }
 ]
