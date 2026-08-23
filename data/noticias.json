@@ -1,45 +1,5 @@
 [
   {
-    "id": 2854,
-    "titulo_original": "Pisos ilegales en la Miguel Hidalgo, negociazo de 360 mdp: legisladora   ",
-    "titulo": "Pisos ilegales en la Miguel Hidalgo, negociazo de 360 mdp: legisladora",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/capital/026n1cap?partner=rss"
-  },
-  {
-    "id": 2855,
-    "titulo_original": "La próxima semana, Morena elegirá al presidente del Senado   ",
-    "titulo": "La próxima semana, Morena elegirá al presidente del Senado",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/006n2pol?partner=rss"
-  },
-  {
-    "id": 2856,
-    "titulo_original": "Eric Flores Cervantes deja San Lázaro sin avanzar en el desafuero de Alito    ",
-    "titulo": "Eric Flores Cervantes deja San Lázaro sin avanzar en el desafuero de Alito",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/004n3pol?partner=rss"
-  },
-  {
-    "id": 2857,
-    "titulo_original": "Pericos de Puebla pegan a Diablos Rojos 13-5   ",
-    "titulo": "Pericos de Puebla pegan a Diablos Rojos 13-5",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F20%2Ffotos%2Fa31n1dep-1.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/deportes/a31n1dep?partner=rss"
-  },
-  {
     "id": 2858,
     "titulo_original": "Editorial: Nicaragua: cuestión de principios",
     "titulo": "Editorial: Nicaragua: cuestión de principios",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2Fa09n3dep-1.jpg",
     "fecha": "2026-08-23",
     "url_origen": "https://www.jornada.com.mx/2026/08/22/deportes/a09n3dep?partner=rss"
+  },
+  {
+    "id": 2954,
+    "titulo_original": "Editorial: Rocha Moya: desfiguro e impertinencia",
+    "titulo": "Editorial: Rocha Moya: desfiguro e impertinencia",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/opinion/002a1edi?partner=rss"
+  },
+  {
+    "id": 2955,
+    "titulo_original": "Ángeles González Gamio: “Un pedazo de Lituania en México”   ",
+    "titulo": "Ángeles González Gamio: “Un pedazo de Lituania en México”",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/capital/026a1cap?partner=rss"
+  },
+  {
+    "id": 2956,
+    "titulo_original": "Rolando Cordera Campos: Revisitar el pasado para (re)construir un presente con futuro   ",
+    "titulo": "Rolando Cordera Campos: Revisitar el pasado para (re)construir un presente con futuro",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/politica/010a2pol?partner=rss"
+  },
+  {
+    "id": 2957,
+    "titulo_original": "Mexicanas suman otra presea del orbe en clavados    ",
+    "titulo": "Mexicanas suman otra presea del orbe en clavados",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/deportes/a09n2dep?partner=rss"
   }
 ]
