@@ -1,45 +1,5 @@
 [
   {
-    "id": 2834,
-    "titulo_original": "Embajador de EU acepta: hay que seguir las armas y el dinero de los grupos criminales   ",
-    "titulo": "Embajador de EU acepta: hay que seguir las armas y el dinero de los grupos criminales",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/012n2pol?partner=rss"
-  },
-  {
-    "id": 2835,
-    "titulo_original": "Fuerzas federales aprehenden en Michoacán a 12 miembros del CJNG",
-    "titulo": "Fuerzas federales aprehenden en Michoacán a 12 miembros del CJNG",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F20%2Ffotos%2F023n1est-1.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/estados/023n1est?partner=rss"
-  },
-  {
-    "id": 2836,
-    "titulo_original": "Trabajadores del PJF piden más sueldo por más productividad   ",
-    "titulo": "Trabajadores del PJF piden más sueldo por más productividad",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/012n3pol?partner=rss"
-  },
-  {
-    "id": 2837,
-    "titulo_original": "Ratifican multa de  521 mil pesos al PRI por omisión en 2024   ",
-    "titulo": "Ratifican multa de 521 mil pesos al PRI por omisión en 2024",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-20",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/007n3pol?partner=rss"
-  },
-  {
     "id": 2838,
     "titulo_original": "Sancionan y multan de nuevo a firma por violar ley de adquisiciones   ",
     "titulo": "Sancionan y multan de nuevo a firma por violar ley de adquisiciones",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-22",
     "url_origen": "https://www.jornada.com.mx/2026/08/22/politica/009n2pol?partner=rss"
+  },
+  {
+    "id": 2934,
+    "titulo_original": "FIFA impone sanciones  a Argentina; impugnarán    ",
+    "titulo": "FIFA impone sanciones a Argentina; impugnarán",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2Fa09n1dep-1.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/deportes/a09n1dep?partner=rss"
+  },
+  {
+    "id": 2935,
+    "titulo_original": "Russell saldrá desde la pole en la carrera esprint   ",
+    "titulo": "Russell saldrá desde la pole en la carrera esprint",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2Fa11n2dep-1.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/deportes/a11n2dep?partner=rss"
+  },
+  {
+    "id": 2936,
+    "titulo_original": "Ultraderecha, guía ideológica del gabinete del presidente colombiano   ",
+    "titulo": "Ultraderecha, guía ideológica del gabinete del presidente colombiano",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2F016n1mun-1.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/mundo/016n1mun?partner=rss"
+  },
+  {
+    "id": 2937,
+    "titulo_original": "Concesionarios del transporte público en Cuautla denuncian ser víctimas de extorsión   ",
+    "titulo": "Concesionarios del transporte público en Cuautla denuncian ser víctimas de extorsión",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/estados/022n3est?partner=rss"
   }
 ]
