@@ -1,45 +1,5 @@
 [
   {
-    "id": 2850,
-    "titulo_original": "Deuda de EU supera 40 bdd; equivale a 160% de su PIB   ",
-    "titulo": "Deuda de EU supera 40 bdd; equivale a 160% de su PIB",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/economia/017n1eco?partner=rss"
-  },
-  {
-    "id": 2851,
-    "titulo_original": "Un minuto por Palestina   ",
-    "titulo": "Un minuto por Palestina",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F20%2Ffotos%2F012n5pol-1.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/012n5pol?partner=rss"
-  },
-  {
-    "id": 2852,
-    "titulo_original": "Subestimamos el tamaño del negocio detrás del examen virtual: Lomelí   ",
-    "titulo": "Subestimamos el tamaño del negocio detrás del examen virtual: Lomelí",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F20%2Ffotos%2F010n1pol-1.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/politica/010n1pol?partner=rss"
-  },
-  {
-    "id": 2853,
-    "titulo_original": "Petrona de la Cruz: “el teatro me fortaleció, empoderó y guio el camino”   ",
-    "titulo": "Petrona de la Cruz: “el teatro me fortaleció, empoderó y guio el camino”",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F20%2Ffotos%2Fa07n1esp-1.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/20/espectaculos/a07n1esp?partner=rss"
-  },
-  {
     "id": 2854,
     "titulo_original": "Pisos ilegales en la Miguel Hidalgo, negociazo de 360 mdp: legisladora   ",
     "titulo": "Pisos ilegales en la Miguel Hidalgo, negociazo de 360 mdp: legisladora",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2F022n5est-1.jpg",
     "fecha": "2026-08-23",
     "url_origen": "https://www.jornada.com.mx/2026/08/22/estados/022n5est?partner=rss"
+  },
+  {
+    "id": 2950,
+    "titulo_original": "Gloria Muñoz Ramírez: Los de abajo   ",
+    "titulo": "Gloria Muñoz Ramírez: Los de abajo",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/opinion/006o1pol?partner=rss"
+  },
+  {
+    "id": 2951,
+    "titulo_original": "“El jazz es música brava con calidad, integridad y swing”, señala Oscar Hernández   ",
+    "titulo": "“El jazz es música brava con calidad, integridad y swing”, señala Oscar Hernández",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2Fa07n1esp-1.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/espectaculos/a07n1esp?partner=rss"
+  },
+  {
+    "id": 2952,
+    "titulo_original": "Bajaron en junio las ventas al menudeo   ",
+    "titulo": "Bajaron en junio las ventas al menudeo",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/economia/013n3eco?partner=rss"
+  },
+  {
+    "id": 2953,
+    "titulo_original": "Ya es de oro   ",
+    "titulo": "Ya es de oro",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2Fa09n3dep-1.jpg",
+    "fecha": "2026-08-23",
+    "url_origen": "https://www.jornada.com.mx/2026/08/22/deportes/a09n3dep?partner=rss"
   }
 ]
