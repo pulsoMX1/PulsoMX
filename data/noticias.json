@@ -1,45 +1,5 @@
 [
   {
-    "id": 2902,
-    "titulo_original": "Julio Hernández López: Astillero   ",
-    "titulo": "Julio Hernández López: Astillero",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2F008o1pol-1.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/opinion/008o1pol?partner=rss"
-  },
-  {
-    "id": 2903,
-    "titulo_original": "Asuntos familiares, obra sobre la revictimización   ",
-    "titulo": "Asuntos familiares, obra sobre la revictimización",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2Fa05n1cul-1.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/cultura/a05n1cul?partner=rss"
-  },
-  {
-    "id": 2904,
-    "titulo_original": "Trampas en el asfalto: el viacrucis interminable de los baches en la CDMX   ",
-    "titulo": "Trampas en el asfalto: el viacrucis interminable de los baches en la CDMX",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2F029n1cap-1.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/capital/029n1cap?partner=rss"
-  },
-  {
-    "id": 2905,
-    "titulo_original": "José Cueli: Las novelas ejemplares de Cervantes   ",
-    "titulo": "José Cueli: Las novelas ejemplares de Cervantes",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/cultura/a04a1cul?partner=rss"
-  },
-  {
     "id": 2906,
     "titulo_original": "Carlos Fernández-Vega: México SA   ",
     "titulo": "Carlos Fernández-Vega: México SA",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-24",
     "url_origen": "https://www.jornada.com.mx/2026/08/23/politica/006n3pol?partner=rss"
+  },
+  {
+    "id": 3002,
+    "titulo_original": "Critica ex pareja de Cerimedo silencio del presidente boliviano sobre el atentado planeado por su asesor   ",
+    "titulo": "Critica ex pareja de Cerimedo silencio del presidente boliviano sobre el atentado planeado por su asesor",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/mundo/017n2mun?partner=rss"
+  },
+  {
+    "id": 3003,
+    "titulo_original": "Leonardo Páez: ¿La fiesta en paz?   ",
+    "titulo": "Leonardo Páez: ¿La fiesta en paz?",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/opinion/a07o1esp?partner=rss"
+  },
+  {
+    "id": 3004,
+    "titulo_original": "Cepal recomienda nueva reforma de pensiones en México   ",
+    "titulo": "Cepal recomienda nueva reforma de pensiones en México",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/economia/012n2eco?partner=rss"
+  },
+  {
+    "id": 3005,
+    "titulo_original": "Magnífica Zamorano retiene cetro mundial átomo del CMB   ",
+    "titulo": "Magnífica Zamorano retiene cetro mundial átomo del CMB",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/deportes/a27n2dep?partner=rss"
   }
 ]
