@@ -1,45 +1,5 @@
 [
   {
-    "id": 2886,
-    "titulo_original": "Gabriela Rodríguez R.*: El envejecimiento y los cuidados de largo plazo   ",
-    "titulo": "Gabriela Rodríguez R.*: El envejecimiento y los cuidados de largo plazo",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/politica/013a2pol?partner=rss"
-  },
-  {
-    "id": 2887,
-    "titulo_original": "Canal de Panamá reducirá tránsito de buques por El Niño   ",
-    "titulo": "Canal de Panamá reducirá tránsito de buques por El Niño",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/mundo/021n5mun?partner=rss"
-  },
-  {
-    "id": 2888,
-    "titulo_original": "Sufren 6 millones en Somalia inseguridad alimentaria: PMA   ",
-    "titulo": "Sufren 6 millones en Somalia inseguridad alimentaria: PMA",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/mundo/021n3mun?partner=rss"
-  },
-  {
-    "id": 2889,
-    "titulo_original": "Arte europeo llega a Japón   ",
-    "titulo": "Arte europeo llega a Japón",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2Fa04n2cul-1.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/cultura/a04n2cul?partner=rss"
-  },
-  {
     "id": 2890,
     "titulo_original": "Enrique Galván Ochoa: Dinero   ",
     "titulo": "Enrique Galván Ochoa: Dinero",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F012n1eco-1.jpg",
     "fecha": "2026-08-24",
     "url_origen": "https://www.jornada.com.mx/2026/08/23/economia/012n1eco?partner=rss"
+  },
+  {
+    "id": 2986,
+    "titulo_original": "¡Diablos! están a una derrota de ser eliminados   ",
+    "titulo": "¡Diablos! están a una derrota de ser eliminados",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/deportes/a10n3dep?partner=rss"
+  },
+  {
+    "id": 2987,
+    "titulo_original": "Tel Aviv realiza limpieza étnica, denuncian 100  ex diplomáticos de RU y Francia; piden sanciones   ",
+    "titulo": "Tel Aviv realiza limpieza étnica, denuncian 100 ex diplomáticos de RU y Francia; piden sanciones",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/mundo/015n2mun?partner=rss"
+  },
+  {
+    "id": 2988,
+    "titulo_original": "Acusa Milei a México, Brasil y España de campaña antiargentina    ",
+    "titulo": "Acusa Milei a México, Brasil y España de campaña antiargentina",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F017n1mun-1.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/mundo/017n1mun?partner=rss"
+  },
+  {
+    "id": 2989,
+    "titulo_original": "Detienen a cuatro en Cuautla como parte del Operativo Morelos   ",
+    "titulo": "Detienen a cuatro en Cuautla como parte del Operativo Morelos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/estados/020n4est?partner=rss"
   }
 ]
