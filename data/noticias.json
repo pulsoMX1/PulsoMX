@@ -1,45 +1,5 @@
 [
   {
-    "id": 2890,
-    "titulo_original": "Enrique Galván Ochoa: Dinero   ",
-    "titulo": "Enrique Galván Ochoa: Dinero",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F21%2Ffotos%2F006o1eco-1.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/opinion/006o1eco?partner=rss"
-  },
-  {
-    "id": 2891,
-    "titulo_original": "Activistas denuncian ante la SG desplazamiento forzado y violencia en la Tarahumara     ",
-    "titulo": "Activistas denuncian ante la SG desplazamiento forzado y violencia en la Tarahumara",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/estados/024n1est?partner=rss"
-  },
-  {
-    "id": 2892,
-    "titulo_original": "En 17 meses, autoridades han inhibido 37 intentos de contrabando de energéticos   ",
-    "titulo": "En 17 meses, autoridades han inhibido 37 intentos de contrabando de energéticos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/politica/005n3pol?partner=rss"
-  },
-  {
-    "id": 2893,
-    "titulo_original": "Vinculación de líneas celulares muestra avance de 60.5%: CRT   ",
-    "titulo": "Vinculación de líneas celulares muestra avance de 60.5%: CRT",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/economia/017n1eco?partner=rss"
-  },
-  {
     "id": 2894,
     "titulo_original": "Con calificación perfecta, Javier Guerrero logra su ingreso al CCH Oriente   ",
     "titulo": "Con calificación perfecta, Javier Guerrero logra su ingreso al CCH Oriente",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-24",
     "url_origen": "https://www.jornada.com.mx/2026/08/23/estados/020n4est?partner=rss"
+  },
+  {
+    "id": 2990,
+    "titulo_original": "Entrega México a Argentina a cabecilla de Zona Divas   ",
+    "titulo": "Entrega México a Argentina a cabecilla de Zona Divas",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/politica/005n3pol?partner=rss"
+  },
+  {
+    "id": 2991,
+    "titulo_original": "Rinde protesta la presidenta municipal interina de Paraíso   ",
+    "titulo": "Rinde protesta la presidenta municipal interina de Paraíso",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F020n1est-1.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/estados/020n1est?partner=rss"
+  },
+  {
+    "id": 2992,
+    "titulo_original": "Promete Macron a Zelensky misiles interceptores   ",
+    "titulo": "Promete Macron a Zelensky misiles interceptores",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/mundo/016n3mun?partner=rss"
+  },
+  {
+    "id": 2993,
+    "titulo_original": "Alia Lira Hartmann: Desde otras ciudades   ",
+    "titulo": "Alia Lira Hartmann: Desde otras ciudades",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F024o1cap-1.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/opinion/024o1cap?partner=rss"
   }
 ]
