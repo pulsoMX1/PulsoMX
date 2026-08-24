@@ -1,45 +1,5 @@
 [
   {
-    "id": 2882,
-    "titulo_original": "Sube precio del petróleo por quinta jornada consecutiva   ",
-    "titulo": "Sube precio del petróleo por quinta jornada consecutiva",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/mundo/021n2mun?partner=rss"
-  },
-  {
-    "id": 2883,
-    "titulo_original": "Vecinos alistan frente de oposición ante impactos  de Torre Reforma Colón   ",
-    "titulo": "Vecinos alistan frente de oposición ante impactos de Torre Reforma Colón",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/capital/027n1cap?partner=rss"
-  },
-  {
-    "id": 2884,
-    "titulo_original": "BdeM considera mantener tasa mientras inflación se modera   ",
-    "titulo": "BdeM considera mantener tasa mientras inflación se modera",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/economia/017n2eco?partner=rss"
-  },
-  {
-    "id": 2885,
-    "titulo_original": "Sanciona ahora EU al Instituto Cubano de Amistad con los Pueblos   ",
-    "titulo": "Sanciona ahora EU al Instituto Cubano de Amistad con los Pueblos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-21",
-    "url_origen": "https://www.jornada.com.mx/2026/08/21/mundo/019n1mun?partner=rss"
-  },
-  {
     "id": 2886,
     "titulo_original": "Gabriela Rodríguez R.*: El envejecimiento y los cuidados de largo plazo   ",
     "titulo": "Gabriela Rodríguez R.*: El envejecimiento y los cuidados de largo plazo",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F014n1eco-1.jpg",
     "fecha": "2026-08-23",
     "url_origen": "https://www.jornada.com.mx/2026/08/23/economia/014n1eco?partner=rss"
+  },
+  {
+    "id": 2982,
+    "titulo_original": "Sara Nelson*: Cómo ganar los próximos 250 años para los trabajadores   ",
+    "titulo": "Sara Nelson*: Cómo ganar los próximos 250 años para los trabajadores",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/politica/011a2pol?partner=rss"
+  },
+  {
+    "id": 2983,
+    "titulo_original": "“El mercado aceptará un derrota electoral de Trump”   ",
+    "titulo": "“El mercado aceptará un derrota electoral de Trump”",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/economia/013n2eco?partner=rss"
+  },
+  {
+    "id": 2984,
+    "titulo_original": "Alfredo Jalife-Rahme: Bajo la lupa   ",
+    "titulo": "Alfredo Jalife-Rahme: Bajo la lupa",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F008o1pol-1.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/opinion/008o1pol?partner=rss"
+  },
+  {
+    "id": 2985,
+    "titulo_original": "Canadá impondrá a EU aranceles de represalia: Carney   ",
+    "titulo": "Canadá impondrá a EU aranceles de represalia: Carney",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F012n1eco-1.jpg",
+    "fecha": "2026-08-24",
+    "url_origen": "https://www.jornada.com.mx/2026/08/23/economia/012n1eco?partner=rss"
   }
 ]
