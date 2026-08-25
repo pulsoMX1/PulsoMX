@@ -1,45 +1,5 @@
 [
   {
-    "id": 2946,
-    "titulo_original": "Guatemala, destino de 2 mil 400 mexicanos expulsados por Trump   ",
-    "titulo": "Guatemala, destino de 2 mil 400 mexicanos expulsados por Trump",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/22/politica/005n3pol?partner=rss"
-  },
-  {
-    "id": 2947,
-    "titulo_original": "Denuncian anomalías en los 11 penales y el tutelar de Guanajuato   ",
-    "titulo": "Denuncian anomalías en los 11 penales y el tutelar de Guanajuato",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2F020n1est-1.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/22/estados/020n1est?partner=rss"
-  },
-  {
-    "id": 2948,
-    "titulo_original": "SG termina contrato con proveedor del mecanismo de protección tras quejas   ",
-    "titulo": "SG termina contrato con proveedor del mecanismo de protección tras quejas",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/22/politica/010n1pol?partner=rss"
-  },
-  {
-    "id": 2949,
-    "titulo_original": "Utilizan andador como depósito de escombro en Guerrero   ",
-    "titulo": "Utilizan andador como depósito de escombro en Guerrero",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2F022n5est-1.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/22/estados/022n5est?partner=rss"
-  },
-  {
     "id": 2950,
     "titulo_original": "Gloria Muñoz Ramírez: Los de abajo   ",
     "titulo": "Gloria Muñoz Ramírez: Los de abajo",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2F014n2pol-1.jpg",
     "fecha": "2026-08-25",
     "url_origen": "https://www.jornada.com.mx/2026/08/24/politica/014n2pol?partner=rss"
+  },
+  {
+    "id": 3046,
+    "titulo_original": "Carlos Fernández-Vega: México SA   ",
+    "titulo": "Carlos Fernández-Vega: México SA",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/opinion/023o1eco?partner=rss"
+  },
+  {
+    "id": 3047,
+    "titulo_original": "Llama el Congreso Panamericano a consolidar democracia   ",
+    "titulo": "Llama el Congreso Panamericano a consolidar democracia",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/mundo/026n3mun?partner=rss"
+  },
+  {
+    "id": 3048,
+    "titulo_original": "Derrota tricolor en Williamsport   ",
+    "titulo": "Derrota tricolor en Williamsport",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/deportes/a10n3dep?partner=rss"
+  },
+  {
+    "id": 3049,
+    "titulo_original": "Profeco pide cautela en compra de útiles escolares vía Internet   ",
+    "titulo": "Profeco pide cautela en compra de útiles escolares vía Internet",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/economia/022n2eco?partner=rss"
   }
 ]
