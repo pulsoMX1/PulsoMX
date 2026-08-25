@@ -1,45 +1,5 @@
 [
   {
-    "id": 2954,
-    "titulo_original": "Editorial: Rocha Moya: desfiguro e impertinencia",
-    "titulo": "Editorial: Rocha Moya: desfiguro e impertinencia",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/opinion/002a1edi?partner=rss"
-  },
-  {
-    "id": 2955,
-    "titulo_original": "Ángeles González Gamio: “Un pedazo de Lituania en México”   ",
-    "titulo": "Ángeles González Gamio: “Un pedazo de Lituania en México”",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/capital/026a1cap?partner=rss"
-  },
-  {
-    "id": 2956,
-    "titulo_original": "Rolando Cordera Campos: Revisitar el pasado para (re)construir un presente con futuro   ",
-    "titulo": "Rolando Cordera Campos: Revisitar el pasado para (re)construir un presente con futuro",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/politica/010a2pol?partner=rss"
-  },
-  {
-    "id": 2957,
-    "titulo_original": "Mexicanas suman otra presea del orbe en clavados    ",
-    "titulo": "Mexicanas suman otra presea del orbe en clavados",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/deportes/a09n2dep?partner=rss"
-  },
-  {
     "id": 2958,
     "titulo_original": "Hallan otra ruta de robo de combustible; va de Yucatán a Campeche   ",
     "titulo": "Hallan otra ruta de robo de combustible; va de Yucatán a Campeche",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-25",
     "url_origen": "https://www.jornada.com.mx/2026/08/24/politica/010n1pol?partner=rss"
+  },
+  {
+    "id": 3054,
+    "titulo_original": "Editorial:     EU: xenofobia contraproducente      ",
+    "titulo": "Editorial: EU: xenofobia contraproducente",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/opinion/002a1edi?partner=rss"
+  },
+  {
+    "id": 3055,
+    "titulo_original": "Revisan México y Corea Plan de Acción bilateral durante visita de Velasco   ",
+    "titulo": "Revisan México y Corea Plan de Acción bilateral durante visita de Velasco",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/politica/005n2pol?partner=rss"
+  },
+  {
+    "id": 3056,
+    "titulo_original": "Documental que denuncia el asesinato calculado de palestinos va a Venecia   ",
+    "titulo": "Documental que denuncia el asesinato calculado de palestinos va a Venecia",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F25%2Ffotos%2Fa08n2esp-1.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/espectaculos/a08n2esp?partner=rss"
+  },
+  {
+    "id": 3057,
+    "titulo_original": "Revisará la Corte si es legal huelga de casi un año en Monte de Piedad   ",
+    "titulo": "Revisará la Corte si es legal huelga de casi un año en Monte de Piedad",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/politica/008n1pol?partner=rss"
   }
 ]
