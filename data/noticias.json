@@ -1,45 +1,5 @@
 [
   {
-    "id": 2958,
-    "titulo_original": "Hallan otra ruta de robo de combustible; va de Yucatán a Campeche   ",
-    "titulo": "Hallan otra ruta de robo de combustible; va de Yucatán a Campeche",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/politica/005n2pol?partner=rss"
-  },
-  {
-    "id": 2959,
-    "titulo_original": "Importará Washington caña de azúcar de firma dominicana acusada  de explotación laboral   ",
-    "titulo": "Importará Washington caña de azúcar de firma dominicana acusada de explotación laboral",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/mundo/018n2mun?partner=rss"
-  },
-  {
-    "id": 2960,
-    "titulo_original": "Desplazados de Buenavista siguen sin poder volver a sus casas   ",
-    "titulo": "Desplazados de Buenavista siguen sin poder volver a sus casas",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F019n1est-1.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/estados/019n1est?partner=rss"
-  },
-  {
-    "id": 2961,
-    "titulo_original": "Mark Ruffalo responde a críticas de Paramount    ",
-    "titulo": "Mark Ruffalo responde a críticas de Paramount",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/espectaculos/a08n2esp?partner=rss"
-  },
-  {
     "id": 2962,
     "titulo_original": "Estar acompañados es clave para salud mental de los adultos mayores   ",
     "titulo": "Estar acompañados es clave para salud mental de los adultos mayores",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-25",
     "url_origen": "https://www.jornada.com.mx/2026/08/25/politica/008n1pol?partner=rss"
+  },
+  {
+    "id": 3058,
+    "titulo_original": "Víctor M. Toledo: Morelia: gobiernos ecocidas contra  la ciudadanía   ",
+    "titulo": "Víctor M. Toledo: Morelia: gobiernos ecocidas contra la ciudadanía",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/politica/015a2pol?partner=rss"
+  },
+  {
+    "id": 3059,
+    "titulo_original": "Riesgo de que patógenos sobrevivan en la Luna;  su transferencia involuntaria preocupa a la NASA   ",
+    "titulo": "Riesgo de que patógenos sobrevivan en la Luna; su transferencia involuntaria preocupa a la NASA",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/ciencias/a06n2cie?partner=rss"
+  },
+  {
+    "id": 3060,
+    "titulo_original": "Ante crisis financiera en la UAZ, rector plantea aumento de cuotas a alumnos   ",
+    "titulo": "Ante crisis financiera en la UAZ, rector plantea aumento de cuotas a alumnos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F25%2Ffotos%2F025n1est-1.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/estados/025n1est?partner=rss"
+  },
+  {
+    "id": 3061,
+    "titulo_original": "Ecatepec trabaja para mejorar suministro de agua en la Quinta Zona   ",
+    "titulo": "Ecatepec trabaja para mejorar suministro de agua en la Quinta Zona",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F25%2Ffotos%2F026n3est-1.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/estados/026n3est?partner=rss"
   }
 ]
