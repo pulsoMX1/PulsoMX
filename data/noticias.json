@@ -1,45 +1,5 @@
 [
   {
-    "id": 2950,
-    "titulo_original": "Gloria Muñoz Ramírez: Los de abajo   ",
-    "titulo": "Gloria Muñoz Ramírez: Los de abajo",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/22/opinion/006o1pol?partner=rss"
-  },
-  {
-    "id": 2951,
-    "titulo_original": "“El jazz es música brava con calidad, integridad y swing”, señala Oscar Hernández   ",
-    "titulo": "“El jazz es música brava con calidad, integridad y swing”, señala Oscar Hernández",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2Fa07n1esp-1.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/22/espectaculos/a07n1esp?partner=rss"
-  },
-  {
-    "id": 2952,
-    "titulo_original": "Bajaron en junio las ventas al menudeo   ",
-    "titulo": "Bajaron en junio las ventas al menudeo",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/22/economia/013n3eco?partner=rss"
-  },
-  {
-    "id": 2953,
-    "titulo_original": "Ya es de oro   ",
-    "titulo": "Ya es de oro",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2Fa09n3dep-1.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/22/deportes/a09n3dep?partner=rss"
-  },
-  {
     "id": 2954,
     "titulo_original": "Editorial: Rocha Moya: desfiguro e impertinencia",
     "titulo": "Editorial: Rocha Moya: desfiguro e impertinencia",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-25",
     "url_origen": "https://www.jornada.com.mx/2026/08/24/economia/022n2eco?partner=rss"
+  },
+  {
+    "id": 3050,
+    "titulo_original": "Orquestas por la paz en Cuautla   ",
+    "titulo": "Orquestas por la paz en Cuautla",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2Fa04n2cul-1.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/cultura/a04n2cul?partner=rss"
+  },
+  {
+    "id": 3051,
+    "titulo_original": "Caen los petroprecios mientras guerra en Medio Oriente escala   ",
+    "titulo": "Caen los petroprecios mientras guerra en Medio Oriente escala",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/mundo/025n2mun?partner=rss"
+  },
+  {
+    "id": 3052,
+    "titulo_original": "La Constitución no permite en el país a fuerzas extranjeras: García Harfuch   ",
+    "titulo": "La Constitución no permite en el país a fuerzas extranjeras: García Harfuch",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2F013n2pol-1.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/politica/013n2pol?partner=rss"
+  },
+  {
+    "id": 3053,
+    "titulo_original": "Vuelven hoy al trabajo 1.2 millones de maestros para afinar ciclo escolar   ",
+    "titulo": "Vuelven hoy al trabajo 1.2 millones de maestros para afinar ciclo escolar",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/politica/010n1pol?partner=rss"
   }
 ]
