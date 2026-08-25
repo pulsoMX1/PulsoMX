@@ -1,45 +1,5 @@
 [
   {
-    "id": 2942,
-    "titulo_original": "Ebrard confía en lograr igualdad de beneficios    ",
-    "titulo": "Ebrard confía en lograr igualdad de beneficios",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2F013n2eco-1.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/22/economia/013n2eco?partner=rss"
-  },
-  {
-    "id": 2943,
-    "titulo_original": "Jaime Ortega*: El discurso crítico de Marx cuatro décadas después   ",
-    "titulo": "Jaime Ortega*: El discurso crítico de Marx cuatro décadas después",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/22/politica/012a1pol?partner=rss"
-  },
-  {
-    "id": 2944,
-    "titulo_original": "Temen en Contreras que bando de la alcaldía los perjudique   ",
-    "titulo": "Temen en Contreras que bando de la alcaldía los perjudique",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/22/capital/025n3cap?partner=rss"
-  },
-  {
-    "id": 2945,
-    "titulo_original": "Dictan prisión preventiva a asesor del presidente boliviano por feminicidio   ",
-    "titulo": "Dictan prisión preventiva a asesor del presidente boliviano por feminicidio",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/22/mundo/017n1mun?partner=rss"
-  },
-  {
     "id": 2946,
     "titulo_original": "Guatemala, destino de 2 mil 400 mexicanos expulsados por Trump   ",
     "titulo": "Guatemala, destino de 2 mil 400 mexicanos expulsados por Trump",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-25",
     "url_origen": "https://www.jornada.com.mx/2026/08/24/capital/031n2cap?partner=rss"
+  },
+  {
+    "id": 3042,
+    "titulo_original": "Tromba anega Caracas; cuatro desaparecidos, 100 viviendas dañadas y 70 autos arrastrados   ",
+    "titulo": "Tromba anega Caracas; cuatro desaparecidos, 100 viviendas dañadas y 70 autos arrastrados",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/mundo/027n1mun?partner=rss"
+  },
+  {
+    "id": 3043,
+    "titulo_original": "GB: exigen ser más enérgicos con Israel por asesinato de periodistas   ",
+    "titulo": "GB: exigen ser más enérgicos con Israel por asesinato de periodistas",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/mundo/024n2mun?partner=rss"
+  },
+  {
+    "id": 3044,
+    "titulo_original": "Blake Snell suma otro triunfo   ",
+    "titulo": "Blake Snell suma otro triunfo",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2Fa35n2dep-1.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/deportes/a35n2dep?partner=rss"
+  },
+  {
+    "id": 3045,
+    "titulo_original": "La habilidad de Billy   ",
+    "titulo": "La habilidad de Billy",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2F014n2pol-1.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/politica/014n2pol?partner=rss"
   }
 ]
