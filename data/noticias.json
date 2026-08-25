@@ -1,45 +1,5 @@
 [
   {
-    "id": 2930,
-    "titulo_original": "Comienza EU expulsión de haitianos tras retirar estatus de protección    ",
-    "titulo": "Comienza EU expulsión de haitianos tras retirar estatus de protección",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/22/mundo/017n3mun?partner=rss"
-  },
-  {
-    "id": 2931,
-    "titulo_original": "El gobierno busca duplicar área de siembra para el amaranto   ",
-    "titulo": "El gobierno busca duplicar área de siembra para el amaranto",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F22%2Ffotos%2F025n1cap-1.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/22/capital/025n1cap?partner=rss"
-  },
-  {
-    "id": 2932,
-    "titulo_original": "Arrestan a 2 mexicanos en Sudáfrica  con droga; suman 14 en dos años    ",
-    "titulo": "Arrestan a 2 mexicanos en Sudáfrica con droga; suman 14 en dos años",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/22/politica/007n3pol?partner=rss"
-  },
-  {
-    "id": 2933,
-    "titulo_original": "Usan inteligencia artificial 60% de profesores universitarios: encuesta    ",
-    "titulo": "Usan inteligencia artificial 60% de profesores universitarios: encuesta",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-22",
-    "url_origen": "https://www.jornada.com.mx/2026/08/22/politica/009n2pol?partner=rss"
-  },
-  {
     "id": 2934,
     "titulo_original": "FIFA impone sanciones  a Argentina; impugnarán    ",
     "titulo": "FIFA impone sanciones a Argentina; impugnarán",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2F002n1pol-1.jpg",
     "fecha": "2026-08-24",
     "url_origen": "https://www.jornada.com.mx/2026/08/24/politica/002n1pol?partner=rss"
+  },
+  {
+    "id": 3030,
+    "titulo_original": "Arturo Balderas Rodríguez: La salud de la democracia   ",
+    "titulo": "Arturo Balderas Rodríguez: La salud de la democracia",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/politica/014a1pol?partner=rss"
+  },
+  {
+    "id": 3031,
+    "titulo_original": "Debut triunfal de técnico del City   ",
+    "titulo": "Debut triunfal de técnico del City",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2Fa12n4dep-1.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/deportes/a12n4dep?partner=rss"
+  },
+  {
+    "id": 3032,
+    "titulo_original": "Aprehenden a cuatro en flagrancia por intento de despojo de inmueble   ",
+    "titulo": "Aprehenden a cuatro en flagrancia por intento de despojo de inmueble",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/capital/032n2cap?partner=rss"
+  },
+  {
+    "id": 3033,
+    "titulo_original": "Protestan unos 10 mil en Estocolmo en contra  del cambio climático   ",
+    "titulo": "Protestan unos 10 mil en Estocolmo en contra del cambio climático",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2F025n3mun-1.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/24/mundo/025n3mun?partner=rss"
   }
 ]
