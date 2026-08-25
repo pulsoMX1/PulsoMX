@@ -1,45 +1,5 @@
 [
   {
-    "id": 2970,
-    "titulo_original": "José Antonio Rojas Nieto: Las controvertidas renovables: la primera   ",
-    "titulo": "José Antonio Rojas Nieto: Las controvertidas renovables: la primera",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/economia/014a1eco?partner=rss"
-  },
-  {
-    "id": 2971,
-    "titulo_original": "Claudio Albertani: Los demonios de Verónica Volkow   ",
-    "titulo": "Claudio Albertani: Los demonios de Verónica Volkow",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/politica/010a1pol?partner=rss"
-  },
-  {
-    "id": 2972,
-    "titulo_original": "Anula jueza de EU suspensión de visas impuesta a 75 países   ",
-    "titulo": "Anula jueza de EU suspensión de visas impuesta a 75 países",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/mundo/018n3mun?partner=rss"
-  },
-  {
-    "id": 2973,
-    "titulo_original": "Caen 5 marinos y un policía estatal por secuestro exprés   ",
-    "titulo": "Caen 5 marinos y un policía estatal por secuestro exprés",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-23",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/estados/020n3est?partner=rss"
-  },
-  {
     "id": 2974,
     "titulo_original": "Trampas en el asfalto: El viacrucis interminable de los baches en la CDMX   ",
     "titulo": "Trampas en el asfalto: El viacrucis interminable de los baches en la CDMX",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-25",
     "url_origen": "https://www.jornada.com.mx/2026/08/25/politica/012n1pol?partner=rss"
+  },
+  {
+    "id": 3070,
+    "titulo_original": "Apoya Karol G a damnificados por el sismo en Colombia   ",
+    "titulo": "Apoya Karol G a damnificados por el sismo en Colombia",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F25%2Ffotos%2Fa09n2esp-1.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/espectaculos/a09n2esp?partner=rss"
+  },
+  {
+    "id": 3071,
+    "titulo_original": "Ernesto Márquez: Tumbando caña   ",
+    "titulo": "Ernesto Márquez: Tumbando caña",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/opinion/a09o1esp?partner=rss"
+  },
+  {
+    "id": 3072,
+    "titulo_original": "Luis Hernández Navarro: Vientos  del Este   ",
+    "titulo": "Luis Hernández Navarro: Vientos del Este",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/politica/015a1pol?partner=rss"
+  },
+  {
+    "id": 3073,
+    "titulo_original": "Apuestas del Mundial se dispararon 431.75%  en México en 4 años    ",
+    "titulo": "Apuestas del Mundial se dispararon 431.75% en México en 4 años",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-25",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/economia/020n1eco?partner=rss"
   }
 ]
