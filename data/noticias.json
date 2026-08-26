@@ -1,45 +1,5 @@
 [
   {
-    "id": 2998,
-    "titulo_original": "Para tomar  en cuenta   ",
-    "titulo": "Para tomar en cuenta",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/economia/014n2eco?partner=rss"
-  },
-  {
-    "id": 2999,
-    "titulo_original": "Danza aborda la impermanencia y el duelo   ",
-    "titulo": "Danza aborda la impermanencia y el duelo",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2Fa05n1cul-1.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/cultura/a05n1cul?partner=rss"
-  },
-  {
-    "id": 3000,
-    "titulo_original": "Elena Poniatowksa: El mago de los sueños   ",
-    "titulo": "Elena Poniatowksa: El mago de los sueños",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/cultura/a04a1cul?partner=rss"
-  },
-  {
-    "id": 3001,
-    "titulo_original": "Conaliteg distribuirá más de 153 millones de libros de texto para el próximo ciclo escolar   ",
-    "titulo": "Conaliteg distribuirá más de 153 millones de libros de texto para el próximo ciclo escolar",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/politica/006n3pol?partner=rss"
-  },
-  {
     "id": 3002,
     "titulo_original": "Critica ex pareja de Cerimedo silencio del presidente boliviano sobre el atentado planeado por su asesor   ",
     "titulo": "Critica ex pareja de Cerimedo silencio del presidente boliviano sobre el atentado planeado por su asesor",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-26",
     "url_origen": "https://www.jornada.com.mx/2026/08/25/politica/006n2pol?partner=rss"
+  },
+  {
+    "id": 3098,
+    "titulo_original": "Elegirán a final de mes las mesas directivas de las dos cámaras del Congreso   ",
+    "titulo": "Elegirán a final de mes las mesas directivas de las dos cámaras del Congreso",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/politica/004n3pol?partner=rss"
+  },
+  {
+    "id": 3099,
+    "titulo_original": "Diablos Rojos están de vuelta y a un triunfo del empate frente a los Pericos   ",
+    "titulo": "Diablos Rojos están de vuelta y a un triunfo del empate frente a los Pericos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/deportes/a31n1dep?partner=rss"
+  },
+  {
+    "id": 3100,
+    "titulo_original": "Amenaza el premier de Ontario con cortar el suministro eléctrico a EU   ",
+    "titulo": "Amenaza el premier de Ontario con cortar el suministro eléctrico a EU",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F25%2Ffotos%2F019n1eco-1.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/economia/019n1eco?partner=rss"
+  },
+  {
+    "id": 3101,
+    "titulo_original": "Falleció el escritor y pintor palestino Sliman Mansour    ",
+    "titulo": "Falleció el escritor y pintor palestino Sliman Mansour",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/cultura/a05n2cul?partner=rss"
   }
 ]
