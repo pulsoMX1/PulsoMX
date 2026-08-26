@@ -1,45 +1,5 @@
 [
   {
-    "id": 2986,
-    "titulo_original": "¡Diablos! están a una derrota de ser eliminados   ",
-    "titulo": "¡Diablos! están a una derrota de ser eliminados",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/deportes/a10n3dep?partner=rss"
-  },
-  {
-    "id": 2987,
-    "titulo_original": "Tel Aviv realiza limpieza étnica, denuncian 100  ex diplomáticos de RU y Francia; piden sanciones   ",
-    "titulo": "Tel Aviv realiza limpieza étnica, denuncian 100 ex diplomáticos de RU y Francia; piden sanciones",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/mundo/015n2mun?partner=rss"
-  },
-  {
-    "id": 2988,
-    "titulo_original": "Acusa Milei a México, Brasil y España de campaña antiargentina    ",
-    "titulo": "Acusa Milei a México, Brasil y España de campaña antiargentina",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F017n1mun-1.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/mundo/017n1mun?partner=rss"
-  },
-  {
-    "id": 2989,
-    "titulo_original": "Detienen a cuatro en Cuautla como parte del Operativo Morelos   ",
-    "titulo": "Detienen a cuatro en Cuautla como parte del Operativo Morelos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/estados/020n4est?partner=rss"
-  },
-  {
     "id": 2990,
     "titulo_original": "Entrega México a Argentina a cabecilla de Zona Divas   ",
     "titulo": "Entrega México a Argentina a cabecilla de Zona Divas",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-26",
     "url_origen": "https://www.jornada.com.mx/2026/08/25/mundo/023n3mun?partner=rss"
+  },
+  {
+    "id": 3086,
+    "titulo_original": "Balón de la Mano de Dios se vende por 3.35 mdd   ",
+    "titulo": "Balón de la Mano de Dios se vende por 3.35 mdd",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/deportes/a10n3dep?partner=rss"
+  },
+  {
+    "id": 3087,
+    "titulo_original": "Ordenan reinstalar a columnista del Post   ",
+    "titulo": "Ordenan reinstalar a columnista del Post",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/mundo/021n3mun?partner=rss"
+  },
+  {
+    "id": 3088,
+    "titulo_original": "Miguel Pineda: Negocios y empresas   ",
+    "titulo": "Miguel Pineda: Negocios y empresas",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/opinion/018o1eco?partner=rss"
+  },
+  {
+    "id": 3089,
+    "titulo_original": "Alito, “traidor”; actúa contra México en Estados Unidos, dice Sheinbaum   ",
+    "titulo": "Alito, “traidor”; actúa contra México en Estados Unidos, dice Sheinbaum",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/politica/005n3pol?partner=rss"
   }
 ]
