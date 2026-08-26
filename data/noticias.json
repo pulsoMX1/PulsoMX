@@ -1,45 +1,5 @@
 [
   {
-    "id": 2982,
-    "titulo_original": "Sara Nelson*: Cómo ganar los próximos 250 años para los trabajadores   ",
-    "titulo": "Sara Nelson*: Cómo ganar los próximos 250 años para los trabajadores",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/politica/011a2pol?partner=rss"
-  },
-  {
-    "id": 2983,
-    "titulo_original": "“El mercado aceptará un derrota electoral de Trump”   ",
-    "titulo": "“El mercado aceptará un derrota electoral de Trump”",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/economia/013n2eco?partner=rss"
-  },
-  {
-    "id": 2984,
-    "titulo_original": "Alfredo Jalife-Rahme: Bajo la lupa   ",
-    "titulo": "Alfredo Jalife-Rahme: Bajo la lupa",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F008o1pol-1.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/opinion/008o1pol?partner=rss"
-  },
-  {
-    "id": 2985,
-    "titulo_original": "Canadá impondrá a EU aranceles de represalia: Carney   ",
-    "titulo": "Canadá impondrá a EU aranceles de represalia: Carney",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F012n1eco-1.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/economia/012n1eco?partner=rss"
-  },
-  {
     "id": 2986,
     "titulo_original": "¡Diablos! están a una derrota de ser eliminados   ",
     "titulo": "¡Diablos! están a una derrota de ser eliminados",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-26",
     "url_origen": "https://www.jornada.com.mx/2026/08/25/economia/019n3eco?partner=rss"
+  },
+  {
+    "id": 3082,
+    "titulo_original": "Julio Hernández López: Astillero   ",
+    "titulo": "Julio Hernández López: Astillero",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F25%2Ffotos%2F008o1pol-1.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/opinion/008o1pol?partner=rss"
+  },
+  {
+    "id": 3083,
+    "titulo_original": "Embajador de EU felicita al gobierno   ",
+    "titulo": "Embajador de EU felicita al gobierno",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/politica/014n2pol?partner=rss"
+  },
+  {
+    "id": 3084,
+    "titulo_original": "Juzgado federal ordena suspender obras en Mirador  San Isidro, en Zapopan   ",
+    "titulo": "Juzgado federal ordena suspender obras en Mirador San Isidro, en Zapopan",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/estados/026n2est?partner=rss"
+  },
+  {
+    "id": 3085,
+    "titulo_original": "Exigen en Colombia que la esposa del presidente transparente recursos recibidos tras el terremoto   ",
+    "titulo": "Exigen en Colombia que la esposa del presidente transparente recursos recibidos tras el terremoto",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/mundo/023n3mun?partner=rss"
   }
 ]
