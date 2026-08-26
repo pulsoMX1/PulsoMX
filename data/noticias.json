@@ -1,45 +1,5 @@
 [
   {
-    "id": 2990,
-    "titulo_original": "Entrega México a Argentina a cabecilla de Zona Divas   ",
-    "titulo": "Entrega México a Argentina a cabecilla de Zona Divas",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/politica/005n3pol?partner=rss"
-  },
-  {
-    "id": 2991,
-    "titulo_original": "Rinde protesta la presidenta municipal interina de Paraíso   ",
-    "titulo": "Rinde protesta la presidenta municipal interina de Paraíso",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F020n1est-1.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/estados/020n1est?partner=rss"
-  },
-  {
-    "id": 2992,
-    "titulo_original": "Promete Macron a Zelensky misiles interceptores   ",
-    "titulo": "Promete Macron a Zelensky misiles interceptores",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/mundo/016n3mun?partner=rss"
-  },
-  {
-    "id": 2993,
-    "titulo_original": "Alia Lira Hartmann: Desde otras ciudades   ",
-    "titulo": "Alia Lira Hartmann: Desde otras ciudades",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F23%2Ffotos%2F024o1cap-1.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/opinion/024o1cap?partner=rss"
-  },
-  {
     "id": 2994,
     "titulo_original": "Insiste la dirigencia del PRD local en el registro de cuentas bancarias irregulares   ",
     "titulo": "Insiste la dirigencia del PRD local en el registro de cuentas bancarias irregulares",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-26",
     "url_origen": "https://www.jornada.com.mx/2026/08/25/politica/005n3pol?partner=rss"
+  },
+  {
+    "id": 3090,
+    "titulo_original": "Creció México el triple que el promedio de países de la OCDE   ",
+    "titulo": "Creció México el triple que el promedio de países de la OCDE",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/economia/017n1eco?partner=rss"
+  },
+  {
+    "id": 3091,
+    "titulo_original": "IPN: se pagan prestaciones  a jubilados y pensionados   ",
+    "titulo": "IPN: se pagan prestaciones a jubilados y pensionados",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/politica/013n2pol?partner=rss"
+  },
+  {
+    "id": 3092,
+    "titulo_original": "Corte aplaza votación de proyecto  de reforma electoral en Michoacán   ",
+    "titulo": "Corte aplaza votación de proyecto de reforma electoral en Michoacán",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/estados/027n2est?partner=rss"
+  },
+  {
+    "id": 3093,
+    "titulo_original": "Caen 31 integrantes de red vinculada con Los Zetas y  el CJNG en Carolina del Sur   ",
+    "titulo": "Caen 31 integrantes de red vinculada con Los Zetas y el CJNG en Carolina del Sur",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/25/politica/014n3pol?partner=rss"
   }
 ]
