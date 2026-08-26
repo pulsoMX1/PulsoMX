@@ -1,45 +1,5 @@
 [
   {
-    "id": 3014,
-    "titulo_original": "Reciben 1.2 millones de afromexicanos e indígenas apoyos para mejorar cultivos   ",
-    "titulo": "Reciben 1.2 millones de afromexicanos e indígenas apoyos para mejorar cultivos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/sociedad/035n3soc?partner=rss"
-  },
-  {
-    "id": 3015,
-    "titulo_original": "Denuncian estrategia legal concertada para detener la línea 5   ",
-    "titulo": "Denuncian estrategia legal concertada para detener la línea 5",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/capital/031n3cap?partner=rss"
-  },
-  {
-    "id": 3016,
-    "titulo_original": "Ortiz Tejeda: Nosotros ya no somos  los mismos   ",
-    "titulo": "Ortiz Tejeda: Nosotros ya no somos los mismos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2F012o1pol-1.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/opinion/012o1pol?partner=rss"
-  },
-  {
-    "id": 3017,
-    "titulo_original": "La CDMX es la entidad con la mayor cifra de ambulantes en el país   ",
-    "titulo": "La CDMX es la entidad con la mayor cifra de ambulantes en el país",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2F033n2cap-1.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/capital/033n2cap?partner=rss"
-  },
-  {
     "id": 3018,
     "titulo_original": "Ley antifeminicidio debe proteger a familiares de víctimas, advierten   ",
     "titulo": "Ley antifeminicidio debe proteger a familiares de víctimas, advierten",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-26",
     "url_origen": "https://www.jornada.com.mx/2026/08/26/politica/010n2pol?partner=rss"
+  },
+  {
+    "id": 3114,
+    "titulo_original": "Enrique Dussel Peters*: La Iniciativa para la Seguridad Global propuesta por China   ",
+    "titulo": "Enrique Dussel Peters*: La Iniciativa para la Seguridad Global propuesta por China",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/26/economia/016a1eco?partner=rss"
+  },
+  {
+    "id": 3115,
+    "titulo_original": "Gobierno español prevé reformas para acelerar el asilo y la extranjería   ",
+    "titulo": "Gobierno español prevé reformas para acelerar el asilo y la extranjería",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/26/mundo/022n2mun?partner=rss"
+  },
+  {
+    "id": 3116,
+    "titulo_original": "Admite Lomelí irregularidades en examen en línea aplicado en 2025   ",
+    "titulo": "Admite Lomelí irregularidades en examen en línea aplicado en 2025",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/26/politica/012n1pol?partner=rss"
+  },
+  {
+    "id": 3117,
+    "titulo_original": "Piden priorizar a mexicanos en adquisiciones del sector salud   ",
+    "titulo": "Piden priorizar a mexicanos en adquisiciones del sector salud",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F26%2Ffotos%2F016n1eco-1.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/26/economia/016n1eco?partner=rss"
   }
 ]
