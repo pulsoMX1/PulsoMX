@@ -1,45 +1,5 @@
 [
   {
-    "id": 3002,
-    "titulo_original": "Critica ex pareja de Cerimedo silencio del presidente boliviano sobre el atentado planeado por su asesor   ",
-    "titulo": "Critica ex pareja de Cerimedo silencio del presidente boliviano sobre el atentado planeado por su asesor",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/mundo/017n2mun?partner=rss"
-  },
-  {
-    "id": 3003,
-    "titulo_original": "Leonardo Páez: ¿La fiesta en paz?   ",
-    "titulo": "Leonardo Páez: ¿La fiesta en paz?",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/opinion/a07o1esp?partner=rss"
-  },
-  {
-    "id": 3004,
-    "titulo_original": "Cepal recomienda nueva reforma de pensiones en México   ",
-    "titulo": "Cepal recomienda nueva reforma de pensiones en México",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/economia/012n2eco?partner=rss"
-  },
-  {
-    "id": 3005,
-    "titulo_original": "Magnífica Zamorano retiene cetro mundial átomo del CMB   ",
-    "titulo": "Magnífica Zamorano retiene cetro mundial átomo del CMB",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/23/deportes/a27n2dep?partner=rss"
-  },
-  {
     "id": 3006,
     "titulo_original": "Editorial:     EU-Canadá: ¿fin del T-MEC?      ",
     "titulo": "Editorial: EU-Canadá: ¿fin del T-MEC?",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-08-26",
     "url_origen": "https://www.jornada.com.mx/2026/08/25/cultura/a05n2cul?partner=rss"
+  },
+  {
+    "id": 3102,
+    "titulo_original": "Editorial: Pueblos indígenas: sujetos de derecho ",
+    "titulo": "Editorial: Pueblos indígenas: sujetos de derecho",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/26/opinion/002a1edi?partner=rss"
+  },
+  {
+    "id": 3103,
+    "titulo_original": "Desesperada, la situación en el Inapam; urgen más fondos   ",
+    "titulo": "Desesperada, la situación en el Inapam; urgen más fondos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/26/politica/005n2pol?partner=rss"
+  },
+  {
+    "id": 3104,
+    "titulo_original": "La industria musical australiana prohíbe canciones con IA en las listas de éxitos   ",
+    "titulo": "La industria musical australiana prohíbe canciones con IA en las listas de éxitos",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/26/espectaculos/a08n2esp?partner=rss"
+  },
+  {
+    "id": 3105,
+    "titulo_original": "Recibirá Sheinbaum a Bachelet, aspirante a encabezar la ONU   ",
+    "titulo": "Recibirá Sheinbaum a Bachelet, aspirante a encabezar la ONU",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-26",
+    "url_origen": "https://www.jornada.com.mx/2026/08/26/politica/008n1pol?partner=rss"
   }
 ]
