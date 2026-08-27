@@ -9,11 +9,18 @@ from datetime import datetime
 from urllib.parse import urlparse, urljoin
 from bs4 import BeautifulSoup
 
-# ⚙️ CONFIGURACIÓN
 MODO_TURBO = True
 NOTICIAS_POR_CARRERA = 4 if MODO_TURBO else 1
 
-# RSS directos de fuentes mexicanas (expansion.mx eliminado por XML malformado)
+GROQ_MODELS = {
+    'rapido': 'llama-3.1-8b-instant',           
+    'balanceado': 'llama-3.1-70b-versatile',   
+    'potente': 'llama-3.1-405b-reasoning',     
+    'mixtral': 'mixtral-8x7b-32768',           
+}
+
+MODELO_GROQ = GROQ_MODELS['balanceado']  
+
 RSS_FEEDS = [
     "https://aristeguinoticias.com/feed/",
     "https://www.proceso.com.mx/rss/feed.html",
@@ -49,13 +56,9 @@ def limpiar_titulo(titulo):
     """Limpia el título de caracteres especiales que confunden a la IA."""
     if not titulo:
         return ""
-    # Eliminar espacios múltiples y caracteres de control
     titulo = re.sub(r'\s+', ' ', titulo).strip()
-    # Eliminar puntos suspensivos al final (truncamiento del RSS)
     titulo = re.sub(r'\.{2,}$', '', titulo).strip()
-    # Eliminar caracteres que pueden romper el JSON
     titulo = titulo.replace('"', "'").replace('\\', '')
-    # Limitar longitud
     return titulo[:200]
 
 def extraer_imagen_de_articulo(url_real):
@@ -83,7 +86,6 @@ def extraer_imagen_de_articulo(url_real):
                         and len(img) > 10 and img.startswith('http')):
                     return urljoin(url_real, img)
 
-        # Buscar primera imagen grande en el artículo
         for img_tag in soup.find_all("img"):
             src = img_tag.get("src") or img_tag.get("data-src") or img_tag.get("data-lazy-src")
             if (src and len(src) > 40
@@ -117,7 +119,6 @@ def reescribir_con_ia(titulo_orig):
 
     titulo_limpio = limpiar_titulo(titulo_orig)
 
-    # Si el título es muy corto o solo tiene caracteres raros, no procesar
     if len(titulo_limpio.split()) < 3:
         print(f"   ⚠️ Título demasiado corto, saltando IA")
         return titulo_limpio, "Noticia en desarrollo.", "Consulta el enlace original para más detalles."
@@ -146,7 +147,7 @@ INSTRUCCIONES:
 Responde SOLO con JSON válido con las claves: titulo, resumen, contenido."""
 
     payload = {
-        "model": "llama-3.3-70b-versatile",
+        "model": MODELO_GROQ,  
         "messages": [
             {
                 "role": "system",
@@ -162,7 +163,7 @@ Responde SOLO con JSON válido con las claves: titulo, resumen, contenido."""
         "max_tokens": 1500
     }
 
-    for intento in range(2):  # 2 intentos
+    for intento in range(2):  
         try:
             r = requests.post(url, headers=headers, json=payload, timeout=45)
             res = r.json()
@@ -175,7 +176,6 @@ Responde SOLO con JSON válido con las claves: titulo, resumen, contenido."""
 
             contenido_crudo = res['choices'][0]['message']['content']
 
-            # Limpiar si viene con markdown
             contenido_crudo = re.sub(r'^```json\s*', '', contenido_crudo.strip())
             contenido_crudo = re.sub(r'```$', '', contenido_crudo.strip())
 
@@ -225,7 +225,6 @@ def ejecutar():
                 continue
             t_orig = t_orig.text
 
-            # Saltar títulos muy cortos o de columnas de opinión sin contenido real
             if len(limpiar_titulo(t_orig).split()) < 4:
                 print(f"   ⏭️ Saltando título muy corto: {t_orig[:40]}")
                 continue
@@ -267,7 +266,7 @@ def ejecutar():
             noticias_procesadas += 1
             print(f"✅ Guardada: {t_ia[:50]} ({len(c_ia.split())} palabras)")
 
-            # Pausa para evitar rate limit de Groq
+
             if noticias_procesadas < NOTICIAS_POR_CARRERA:
                 time.sleep(11)
 
