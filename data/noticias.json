@@ -1,45 +1,5 @@
 [
   {
-    "id": 3026,
-    "titulo_original": "Piden ayuda a Sheinbaum  en Tierra Caliente, Guerrero, por amenazas de criminales   ",
-    "titulo": "Piden ayuda a Sheinbaum en Tierra Caliente, Guerrero, por amenazas de criminales",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/estados/030n2est?partner=rss"
-  },
-  {
-    "id": 3027,
-    "titulo_original": "Subieron las ventas en línea y cayeron en los locales físicos   ",
-    "titulo": "Subieron las ventas en línea y cayeron en los locales físicos",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/economia/023n2eco?partner=rss"
-  },
-  {
-    "id": 3028,
-    "titulo_original": "En un año creció 26.7% la cifra de tarjetas de crédito   ",
-    "titulo": "En un año creció 26.7% la cifra de tarjetas de crédito",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/economia/023n1eco?partner=rss"
-  },
-  {
-    "id": 3029,
-    "titulo_original": "Al desnudo, las redes del poder digital de Cerimedo entre Miami y Washington   ",
-    "titulo": "Al desnudo, las redes del poder digital de Cerimedo entre Miami y Washington",
-    "resumen": "Noticia importante de México.",
-    "contenido": "Revisa el enlace original para más detalles.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F24%2Ffotos%2F002n1pol-1.jpg",
-    "fecha": "2026-08-24",
-    "url_origen": "https://www.jornada.com.mx/2026/08/24/politica/002n1pol?partner=rss"
-  },
-  {
     "id": 3030,
     "titulo_original": "Arturo Balderas Rodríguez: La salud de la democracia   ",
     "titulo": "Arturo Balderas Rodríguez: La salud de la democracia",
@@ -998,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F08%2F26%2Ffotos%2F023n1est-1.jpg",
     "fecha": "2026-08-27",
     "url_origen": "https://www.jornada.com.mx/2026/08/26/estados/023n1est?partner=rss"
+  },
+  {
+    "id": 3126,
+    "titulo_original": "Toda anomalía señalada está plenamente documentada   ",
+    "titulo": "Toda anomalía señalada está plenamente documentada",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-27",
+    "url_origen": "https://www.jornada.com.mx/2026/08/26/politica/012n3pol?partner=rss"
+  },
+  {
+    "id": 3127,
+    "titulo_original": "Libera juez a otro testigo del asesinato de Salgado Araujo   ",
+    "titulo": "Libera juez a otro testigo del asesinato de Salgado Araujo",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-27",
+    "url_origen": "https://www.jornada.com.mx/2026/08/26/politica/007n3pol?partner=rss"
+  },
+  {
+    "id": 3128,
+    "titulo_original": "Perfila el TEPJF ordenar a Somos México cambiar nombre, colores y logo   ",
+    "titulo": "Perfila el TEPJF ordenar a Somos México cambiar nombre, colores y logo",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-27",
+    "url_origen": "https://www.jornada.com.mx/2026/08/26/politica/009n2pol?partner=rss"
+  },
+  {
+    "id": 3129,
+    "titulo_original": "Mata EU a cuatro en nuevo bombardeo a lancha en el Caribe   ",
+    "titulo": "Mata EU a cuatro en nuevo bombardeo a lancha en el Caribe",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-08-27",
+    "url_origen": "https://www.jornada.com.mx/2026/08/26/mundo/020n4mun?partner=rss"
   }
 ]
