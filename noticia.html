@@ -275,7 +275,7 @@ if (userId && id) {
                     const result = await response.json();
 
                     if (response.ok) {
-                        rewardText.innerHTML = '<i class="fa-solid fa-circle-check" style="color:#10b981;"></i> ¡+40 NetCoins Acreditadas a tu cuenta de netgamer!';
+                        rewardText.innerHTML = '<i class="fa-solid fa-circle-check" style="color:#10b981;"></i> ¡+200 NetCoins Acreditadas a tu cuenta de netgamer!';
                         progressBar.style.background = '#10b981';
                         setTimeout(() => {
                             widget.style.opacity = '0';
@@ -284,7 +284,7 @@ if (userId && id) {
                     } else {
                         const mensajes = {
                             'ya_reclamada': 'Ya cobraste esta noticia',
-                            'limite_diario': '¡Límite diario alcanzado! (10 noticias/día)',
+                            'limite_diario': '¡Límite diario alcanzado! (200 noticias/día)',
                             'usuario_invalido': 'Usuario no reconocido'
                         };
                         rewardText.innerHTML = '<i class="fa-solid fa-circle-exclamation" style="color:#ef4444;"></i> ' + (mensajes[result.error] || 'Error al reclamar');
