@@ -170,7 +170,7 @@
 
     <div id="reward-widget" style="display:none; position:fixed; bottom:20px; left:50%; transform:translateX(-50%); width: 90%; max-width: 400px; background:#1a1a2e; border-radius:20px; padding:15px; box-shadow:0 10px 25px rgba(0,0,0,0.5); z-index:99999; text-align:center; border: 1px solid #333; transition: opacity 0.5s;">
         <div id="reward-text" style="color:#fff; font-size:14px; font-weight:bold; margin-bottom:10px;">
-            <i class="fa-solid fa-book-open style='color:#f5b800;'"></i> Leyendo para ganar 500 NetCoins
+            <i class="fa-solid fa-book-open style='color:#f5b800;'"></i> Leyendo para ganar 250 NetCoins
         </div>
         <div style="width:100%; background:#2a2a40; border-radius:10px; height:12px; overflow:hidden; box-shadow: inset 0 2px 4px rgba(0,0,0,0.3);">
             <div id="reward-progress" style="width:0%; height:100%; background: linear-gradient(90deg, #f5b800, #ffea00); transition: width 1s linear;"></div>
@@ -184,7 +184,7 @@
             <a href="terminos.html">Términos de Uso</a>
             <a href="acerca.html">Acerca de</a>
         </div>
-        <p>© 2025 PulsoMX — Noticias de México actualizadas automáticamente.</p>
+        <p>© 2025 PulsoMX — Noticias de México actualizadas Diariamente.</p>
     </footer>
 
     <script>
@@ -275,7 +275,7 @@ if (userId && id) {
                     const result = await response.json();
 
                     if (response.ok) {
-                        rewardText.innerHTML = '<i class="fa-solid fa-circle-check" style="color:#10b981;"></i> ¡+500 NetCoins Acreditadas a tu cuenta de netgamer!';
+                        rewardText.innerHTML = '<i class="fa-solid fa-circle-check" style="color:#10b981;"></i> ¡+250 NetCoins Acreditadas a tu cuenta de netgamer!';
                         progressBar.style.background = '#10b981';
                         setTimeout(() => {
                             widget.style.opacity = '0';
